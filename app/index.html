@@ -1,0 +1,101 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Leonida Ledger — GTA VI trophy guide &amp; tracker</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="topbar">
+  <div class="brand">
+    <div class="brand-mark">LL</div>
+    <div class="brand-text">
+      <h1>Leonida Ledger</h1>
+      <p>GTA VI · PlayStation 5 · the official 55 trophies — guide &amp; tracker</p>
+    </div>
+  </div>
+  <div class="progress-block">
+    <div class="progress-count"><span id="earned-count">0</span> / 55 earned</div>
+    <div class="grade-chips">
+      <span class="gchip plat" id="chip-platinum">P 0/1</span>
+      <span class="gchip gold" id="chip-gold">G 0/2</span>
+      <span class="gchip silv" id="chip-silver">S 0/6</span>
+      <span class="gchip bron" id="chip-bronze">B 0/46</span>
+    </div>
+  </div>
+  <div class="top-actions">
+    <button id="btn-export" type="button">Export</button>
+    <label class="import-btn">Import<input id="import-file" type="file" accept="application/json" hidden></label>
+    <span class="saved-note">Saved in this browser</span>
+    <label class="spoiler-toggle"><input id="spoiler-toggle" type="checkbox" checked> Hide story spoilers until earned</label>
+  </div>
+</header>
+
+<div class="audit-strip" id="audit-strip">
+  <span><strong>55</strong> official</span><span class="dot">·</span>
+  <span>1P 2G 6S 46B</span><span class="dot">·</span>
+  <span><strong>28</strong> hidden</span><span class="dot">·</span>
+  <span><strong>55/55</strong> guides cite a source</span><span class="dot">·</span>
+  <span><strong id="audit-steps">564/564</strong> steps, all cited</span><span class="dot">·</span>
+  <span><strong id="audit-instances">1,244</strong> citations</span><span class="dot">·</span>
+  <span><strong id="audit-multi">564</strong> steps backed by 2+ sources</span><span class="dot">·</span>
+  <span><strong>12</strong> sources read 21 Nov 2026</span><span class="dot">·</span>
+  <span><strong>1</strong> possibly missable</span><span class="dot">·</span>
+  <span><strong>2</strong> watch</span><span class="dot">·</span>
+  <span><strong>3</strong> unconfirmed</span><span class="dot">·</span>
+  <span><strong>3</strong> single-source</span><span class="dot">·</span>
+  <span><strong>8</strong> disagree</span>
+</div>
+
+<div class="alert-strip" id="alert-strip">
+  <strong>⚠ 1 POSSIBLY MISSABLE</strong> — Positive Mental Attitude: two guides say a Chapter 1 balcony meditation spot may close when Chapter 1 ends. Meditate there in Chapter 1; the full disagreement is shown in its guide.
+</div>
+
+<nav class="tabs" id="tabs">
+  <button type="button" data-tab="checklist" class="tab active">Checklist</button>
+  <button type="button" data-tab="roadmap" class="tab">Roadmap to platinum</button>
+  <button type="button" data-tab="missables" class="tab">Missables &amp; watch</button>
+  <button type="button" data-tab="sources" class="tab">Sources</button>
+</nav>
+
+<div class="filters" id="filters">
+  <div class="chips" id="chips"></div>
+  <div class="filter-tools">
+    <input id="search" type="search" placeholder="Search trophies…">
+    <label>Grade <select id="grade-filter">
+      <option value="all">All</option><option value="platinum">Platinum</option>
+      <option value="gold">Gold</option><option value="silver">Silver</option><option value="bronze">Bronze</option>
+    </select></label>
+  </div>
+</div>
+
+<main>
+  <section id="view-checklist" class="view">
+    <div class="panes">
+      <aside class="pane list-pane"><div id="list"></div></aside>
+      <article class="pane detail-pane"><div id="detail"></div></article>
+      <aside class="pane rail-pane">
+        <h2>Sources — cited by number</h2>
+        <div id="rail"></div>
+      </aside>
+    </div>
+  </section>
+  <section id="view-roadmap" class="view" hidden>
+    <div id="roadmap"></div>
+  </section>
+  <section id="view-missables" class="view" hidden>
+    <div id="missables"></div>
+  </section>
+  <section id="view-sources" class="view" hidden>
+    <div id="sources"></div>
+  </section>
+</main>
+
+<footer>
+  <p>Guide text is original to this entry and paraphrases the numbered public sources above; trophy names, descriptions and grades are the official PlayStation 5 list. Nothing here is affiliated with the game's publisher.</p>
+</footer>
+
+<script type="module" src="app.js"></script>
+</body>
+</html>

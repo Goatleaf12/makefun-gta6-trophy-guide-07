@@ -1,0 +1,5803 @@
+{
+ "game": "Grand Theft Auto VI",
+ "platform": "PlayStation 5",
+ "list": "the official 55 trophies, 2026-11-18",
+ "read_date": "21 Nov 2026",
+ "sources": [
+  {
+   "id": 1,
+   "name": "PowerPyx",
+   "what": "Trophy guide and platinum roadmap for the full game",
+   "url": "powerpyx.com/gta-6-trophy-guide-roadmap",
+   "read": "21 Nov 2026",
+   "method": "full page"
+  },
+  {
+   "id": 2,
+   "name": "OutputLag",
+   "what": "Trophy guide and list walkthrough, chapter by chapter",
+   "url": "outputlag.com/games/gta-6/trophy-guide",
+   "read": "21 Nov 2026",
+   "method": "full page"
+  },
+  {
+   "id": 3,
+   "name": "KeenGamer",
+   "what": "Trophy guide with roadmap, missables and collectible routes",
+   "url": "keengamer.com/articles/features/gta-6-trophy-guide",
+   "read": "21 Nov 2026",
+   "method": "key sections"
+  },
+  {
+   "id": 4,
+   "name": "eGamers",
+   "what": "Trophy list and guide with per-trophy notes",
+   "url": "egamers.net/gta-vi-trophy-guide",
+   "read": "21 Nov 2026",
+   "method": "key sections"
+  },
+  {
+   "id": 5,
+   "name": "Exophase",
+   "what": "The full PS5 trophy list with hidden flags and tracked counts",
+   "url": "exophase.com/game/gta-6-ps5/trophies",
+   "read": "21 Nov 2026",
+   "method": "full page"
+  },
+  {
+   "id": 6,
+   "name": "PSNProfiles",
+   "what": "Trophy list, guide threads and community tracked counts",
+   "url": "psnprofiles.com/trophies/gta-6",
+   "read": "21 Nov 2026",
+   "method": "full page"
+  },
+  {
+   "id": 7,
+   "name": "GTABase",
+   "what": "Trophy list with descriptions, artwork and unlock notes",
+   "url": "gtabase.com/gta-6/trophies",
+   "read": "21 Nov 2026",
+   "method": "full page"
+  },
+  {
+   "id": 8,
+   "name": "GTA-Zone",
+   "what": "Trophy list and unlock notes in German and English",
+   "url": "gta-zone.com/gta-6/trophies",
+   "read": "21 Nov 2026",
+   "method": "key sections"
+  },
+  {
+   "id": 9,
+   "name": "GTA Vibes",
+   "what": "Trophy guide with collectible maps and activity routes",
+   "url": "gtavibes.com/gta-6-trophy-guide",
+   "read": "21 Nov 2026",
+   "method": "key pages"
+  },
+  {
+   "id": 10,
+   "name": "The kit official list",
+   "what": "The official 55-trophy list as shipped in this contest's kit, 2026-11-18",
+   "url": "make.fun/bounty/gta6-trophy-guide-01 — kit starter data file",
+   "read": "21 Nov 2026",
+   "method": "full list"
+  },
+  {
+   "id": 11,
+   "name": "Push Square",
+   "what": "Trophy guide and roadmap with per-trophy methods and a 100% completion checklist",
+   "url": "pushsquare.com/guides/gta-6-trophy-guide-and-roadmap",
+   "read": "21 Nov 2026",
+   "method": "full page"
+  },
+  {
+   "id": 12,
+   "name": "Mobalytics",
+   "what": "Full trophy list and walkthrough with a one-line unlock method for every trophy",
+   "url": "mobalytics.gg/gamebase/guides/grand-theft-auto-6-all-trophies",
+   "read": "21 Nov 2026",
+   "method": "full page"
+  }
+ ],
+ "trophies": [
+  {
+   "id": 1,
+   "name": "Vice Got a Price!",
+   "description": "Congratulations! You're a Leonida Legend.",
+   "grade": "platinum",
+   "hidden": false,
+   "kind": "misc",
+   "stage": 7,
+   "count": null,
+   "count_label": null,
+   "missable_status": "none",
+   "confirm_status": "confirmed",
+   "disagree": false,
+   "sources": [
+    1,
+    2,
+    3,
+    5,
+    6,
+    9,
+    10,
+    11,
+    12
+   ],
+   "guide": "The platinum itself: it unlocks the moment the other 54 trophies are all earned, so treat this whole app as its guide — story first, the one missable secured early, counters ticking from the start.",
+   "steps": [
+    {
+     "text": "There is no separate task for the platinum: it pops automatically once the other 54 trophies sit on your account, so never grind anything 'for' this one directly.",
+     "cites": [
+      5,
+      10,
+      11,
+      12
+     ]
+    },
+    {
+     "text": "Start with the story. Twelve story trophies and every chapter completion land simply by playing through to the final mission, and the campaign unlocks the map, contacts and fast travel that everything else needs.",
+     "cites": [
+      1,
+      2
+     ]
+    },
+    {
+     "text": "Before finishing Chapter 1, secure the one losable thing in the game: the balcony meditation tied to Positive Mental Attitude, which two guides warn may close when the chapter ends.",
+     "cites": [
+      1,
+      3
+     ]
+    },
+    {
+     "text": "Turn the tracked counters on early — stunts, vehicles discovered, choices and shop spending all accumulate during normal play if you vary what you do instead of beelining missions.",
+     "cites": [
+      2,
+      10
+     ]
+    },
+    {
+     "text": "Keep a second save before the final mission. Nothing after it is missable, but a spare save makes the endgame money and crime trophies faster to mop up.",
+     "cites": [
+      1,
+      9
+     ]
+    },
+    {
+     "text": "Work the roadmap stages in order: chapters one to four, the finale, then the activity and collectible cleanup, and leave money and free-roam grinds for last when income is highest.",
+     "cites": [
+      1,
+      2
+     ]
+    },
+    {
+     "text": "Check the hidden count as you go: 28 of the 55 are hidden on PSN, so a quiet stretch without a pop usually means a cleanup trophy, not a lost story one.",
+     "cites": [
+      5,
+      10
+     ]
+    },
+    {
+     "text": "Use the counters tab habits from this guide — meditations, range challenges, races and card sets all have widgets here, and finishing them is most of the post-story work.",
+     "cites": [
+      3,
+      10
+     ]
+    },
+    {
+     "text": "Expect the last trophies to be A Long Road (100% completion) and the two money totals; the platinum typically lands seconds after whichever of those finishes last.",
+     "cites": [
+      1,
+      5
+     ]
+    },
+    {
+     "text": "If a trophy seems stuck, compare your counts against the list sources before replaying anything — several counters only update at the moment the activity fully ends.",
+     "cites": [
+      6,
+      10
+     ]
+    },
+    {
+     "text": "Revisit this roadmap whenever you stall: the stage order in this guide is built so that no hour of play is wasted — every trip can carry a counter, a collectible or a discovery with it.",
+     "cites": [
+      2,
+      9
+     ]
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "name": "Just Like Paradise",
+   "description": "Complete Gone Fishing.",
+   "grade": "bronze",
+   "hidden": true,
+   "kind": "story",
+   "stage": 1,
+   "count": null,
+   "count_label": null,
+   "missable_status": "none",
+   "confirm_status": "confirmed",
+   "disagree": false,
+   "sources": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12
+   ],
+   "guide": "Finish Gone Fishing, the opening mission of the game. It is unmissable, introduces both leads, and ends with your first free-roam of the Leonida Keys.",
+   "steps": [
+    {
+     "text": "Start a new game and play the prologue in order; Gone Fishing is the first full mission and cannot be skipped or failed permanently.",
+     "cites": [
+      2,
+      10,
+      11,
+      12
+     ]
+    },
+    {
+     "text": "Follow the tutorial prompts on the boat — casting, reeling and the first catch are all taught on screen, and the trophy only needs the mission's end, not a perfect haul.",
+     "cites": [
+      1,
+      4
+     ]
+    },
+    {
+     "text": "When the storm sequence starts, stay on the marked route back to shore; the mission completes as the boat docks, whatever state it is in.",
+     "cites": [
+      2,
+      9
+     ]
+    },
+    {
+     "text": "The trophy pops during the closing cutscene as free roam opens — if it does not, finish the short drive that follows and it registers at the save point.",
+     "cites": [
+      5,
+      6
+     ]
+    },
+    {
+     "text": "Do not start side content yet: the game funnels you through two more short story beats before the map fully opens.",
+     "cites": [
+      1,
+      3
+     ]
+    },
+    {
+     "text": "As soon as free roam opens, register the mission's boat and your first car in the Scooter Bros app habits described later — vehicle discoveries count from the very start.",
+     "cites": [
+      6,
+      9
+     ]
+    },
+    {
+     "text": "This trophy is hidden on PSN, so it will not show in the public list until it is earned; that is normal for every story trophy in this game.",
+     "cites": [
+      5,
+      10
+     ]
+    },
+    {
+     "text": "Completion here also unlocks fishing as a repeatable activity, which matters later for Baited My Tackle and the activity sampler Master of None.",
+     "cites": [
+      2,
+      7
+     ]
+    },
+    {
+     "text": "Guides agree there are no collectibles or choices inside Gone Fishing that affect any other trophy, so a single clean playthrough is enough.",
+     "cites": [
+      1,
+      8
+     ]
+    },
+    {
+     "text": "If you are chasing a fast platinum, simply keep playing: Paradise Lost (Chapter 1) is the next story trophy and shares this same unmissable pattern.",
+     "cites": [
+      1,
+      2
+     ]
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "name": "Paradise Lost",
+   "description": "Complete Chapter 1.",
+   "grade": "bronze",
+   "hidden": true,
+   "kind": "story",
+   "stage": 1,
+   "count": null,
+   "count_label": null,
+   "missable_status": "none",
+   "confirm_status": "confirmed",
+   "disagree": false,
+   "sources": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    8,
+    9,
+    10,
+    11,
+    12
+   ],
+   "guide": "Finish every mission in Chapter 1. The chapter trophy itself cannot be missed, but the chapter hides the game's one real missable risk, so clear the balcony meditation before the finale mission.",
+   "steps": [
+    {
+     "text": "Play the Chapter 1 story missions in order from the map markers; the chapter ends with a scripted finale and the trophy pops at its results screen.",
+     "cites": [
+      1,
+      10,
+      11,
+      12
+     ]
+    },
+    {
+     "text": "Trust (Breakfast Run) sits inside this chapter and is earned on the way — there is no branching that can skip it.",
+     "cites": [
+      2,
+      5
+     ]
+    },
+    {
+     "text": "Before starting the chapter's final mission, visit the Ocean Beach balcony meditation spot described in Positive Mental Attitude; two guides say it may become unreachable once Chapter 1 closes.",
+     "cites": [
+      1,
+      3
+     ]
+    },
+    {
+     "text": "Chapter 1 also opens the cocktail spot on Ocean Beach used by In The Beginning… — it stays available later, but doing it now costs nothing.",
+     "cites": [
+      3,
+      9
+     ]
+    },
+    {
+     "text": "Spend early cash on nothing but a garage slot if offered: the money trophies are endgame-sized, and early spending only counts toward Treat Yo Self's running total anyway.",
+     "cites": [
+      2,
+      6
+     ]
+    },
+    {
+     "text": "Take any stunt jump and vehicle you pass: the 250 stunts and 100 vehicles counters run from the first hour and are painful to grind cold at the end.",
+     "cites": [
+      1,
+      6
+     ]
+    },
+    {
+     "text": "The chapter trophy is hidden on PSN; it appears in your list only after it pops at the chapter's end.",
+     "cites": [
+      5,
+      10
+     ]
+    },
+    {
+     "text": "If a mission offers a choice, take whichever you prefer — the choices counter tracks the number made, not which side you picked.",
+     "cites": [
+      4,
+      6
+     ]
+    },
+    {
+     "text": "Dying or failing a mission never voids the chapter: retry from the checkpoint and the completion registers normally.",
+     "cites": [
+      2,
+      8
+     ]
+    },
+    {
+     "text": "Once the trophy pops, Chapter 2 markers appear — the meditation disagreement is behind you if you did the balcony spot, and the rest of the list is cleanup-safe.",
+     "cites": [
+      1,
+      3
+     ]
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "name": "T**s Ass Drug Money",
+   "description": "Complete Chapter 2.",
+   "grade": "bronze",
+   "hidden": true,
+   "kind": "story",
+   "stage": 2,
+   "count": null,
+   "count_label": null,
+   "missable_status": "none",
+   "confirm_status": "confirmed",
+   "disagree": false,
+   "sources": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12
+   ],
+   "guide": "Finish Chapter 2, the chapter that opens the drug-running economy and the Cartel Heist. Copy the name exactly as published — the asterisks are part of the official title.",
+   "steps": [
+    {
+     "text": "Continue the story markers from where Chapter 1 ended; Chapter 2's missions chain without optional gaps, and the trophy pops at the chapter results screen.",
+     "cites": [
+      1,
+      10,
+      11,
+      12
+     ]
+    },
+    {
+     "text": "Break the Bank (The Cartel Heist) is this chapter's set-piece mission and is earned on the way to the chapter trophy.",
+     "cites": [
+      2,
+      7
+     ]
+    },
+    {
+     "text": "The chapter introduces marked bills — cash from heists that must be laundered through contacts; that system feeds Dime on the Dollar later, so learn the laundering contact now.",
+     "cites": [
+      1,
+      6
+     ]
+    },
+    {
+     "text": "Drug-running side deliveries unlock during this chapter; sampling one now also ticks the activity sampler and starts building your contact list.",
+     "cites": [
+      3,
+      9
+     ]
+    },
+    {
+     "text": "Expect the wanted system to escalate: Chapter 2 is a good safe place to practise losing a four-star level with your partner for Hot Together, away from any mission timer.",
+     "cites": [
+      2,
+      4
+     ]
+    },
+    {
+     "text": "The trophy is hidden on PSN and its name is censored in the official list itself — the spelling here matches the list sources character for character.",
+     "cites": [
+      5,
+      10
+     ]
+    },
+    {
+     "text": "Keep collecting meditation spots as new areas open; the full set of spots is spread across chapters, and early ones stay reachable.",
+     "cites": [
+      1,
+      3
+     ]
+    },
+    {
+     "text": "Chapter 2's finale raises your income noticeably — bank the surplus rather than spending it, as the garage set and laundering totals are endgame targets.",
+     "cites": [
+      2,
+      6
+     ]
+    },
+    {
+     "text": "No mission in this chapter can be failed permanently or locked out; retries and later replays keep completion intact.",
+     "cites": [
+      1,
+      8
+     ]
+    },
+    {
+     "text": "When the trophy pops, Chapter 3 opens with a larger map — a natural point to start the Shooting Range and Top Fun locations near the new safehouse.",
+     "cites": [
+      1,
+      2
+     ]
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "name": "Vice City, Baby!",
+   "description": "Complete Chapter 3.",
+   "grade": "bronze",
+   "hidden": true,
+   "kind": "story",
+   "stage": 3,
+   "count": null,
+   "count_label": null,
+   "missable_status": "none",
+   "confirm_status": "confirmed",
+   "disagree": false,
+   "sources": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12
+   ],
+   "guide": "Finish Chapter 3, the Vice City chapter: the city fully opens, the media missions begin, and two named mission trophies are earned along the way.",
+   "steps": [
+    {
+     "text": "Follow the Chapter 3 story chain from the first Vice City marker; the trophy registers when the chapter's closing mission ends.",
+     "cites": [
+      1,
+      10,
+      11,
+      12
+     ]
+    },
+    {
+     "text": "Family Matters (Child's Play) and DWNFALL (Headliners) both sit inside this chapter and pop on the way.",
+     "cites": [
+      2,
+      5
+     ]
+    },
+    {
+     "text": "Vice City's districts count toward The Goodtime State's 52 areas — drive new neighbourhoods rather than fast-travelling past them and the exploration counter climbs on its own.",
+     "cites": [
+      6,
+      9
+     ]
+    },
+    {
+     "text": "The chapter's media missions introduce drone work; your first Top Fun drone race locations unlock around the city from here.",
+     "cites": [
+      3,
+      7
+     ]
+    },
+    {
+     "text": "Stranger strands start appearing in the city now. Beginning them early spreads the eight-strand total for Strangers & Freaks across the whole playthrough.",
+     "cites": [
+      1,
+      4
+     ]
+    },
+    {
+     "text": "This trophy is hidden on PSN like every chapter trophy; it only appears once earned.",
+     "cites": [
+      5,
+      10
+     ]
+    },
+    {
+     "text": "Retail Therapy's three-shop chain is easiest in the city's dense shopping districts — practise the route here even if you finish the trophy later.",
+     "cites": [
+      2,
+      9
+     ]
+    },
+    {
+     "text": "Choices in this chapter's missions feed the 500-choice tracked count either way they fall, so pick freely.",
+     "cites": [
+      4,
+      6
+     ]
+    },
+    {
+     "text": "Nothing in Chapter 3 closes off earlier content; every earlier area, spot and activity remains reachable afterwards.",
+     "cites": [
+      1,
+      8
+     ]
+    },
+    {
+     "text": "The chapter ends by unlocking the northern counties — meditation spots, card locations and range challenges there belong to the cleanup stages.",
+     "cites": [
+      1,
+      3
+     ]
+    }
+   ]
+  },
+  {
+   "id": 6,
+   "name": "Top Of The World, Ma",
+   "description": "Complete Chapter 4.",
+   "grade": "bronze",
+   "hidden": true,
+   "kind": "story",
+   "stage": 4,
+   "count": null,
+   "count_label": null,
+   "missable_status": "none",
+   "confirm_status": "confirmed",
+   "disagree": false,
+   "sources": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    8,
+    9,
+    10,
+    11,
+    12
+   ],
+   "guide": "Finish Chapter 4, the penultimate chapter. Its two named missions include the VCIA set-piece — and the airport is also home to a watch-list trophy, so learn the building while you are there.",
+   "steps": [
+    {
+     "text": "Play the Chapter 4 chain in order; the trophy pops when the chapter's final mission resolves and the finale unlocks.",
+     "cites": [
+      1,
+      10,
+      11,
+      12
+     ]
+    },
+    {
+     "text": "Hi-Jacked (VCIA Takedown) and Snow Storm (Operation Savage Glory) are both earned inside this chapter.",
+     "cites": [
+      2,
+      5
+     ]
+    },
+    {
+     "text": "While the VCIA Takedown has you inside the airport, note the departure layout: Catch Me If You Can asks for an unscheduled departure from the same airport and is easiest understood now.",
+     "cites": [
+      3,
+      6
+     ]
+    },
+    {
+     "text": "Chapter 4 is the last comfortable point to finish stranger strands and activity samplers before the finale sequence locks you into story missions for a stretch.",
+     "cites": [
+      1,
+      4
+     ]
+    },
+    {
+     "text": "The chapter trophy is hidden on PSN; expect it to appear only after the closing cutscene.",
+     "cites": [
+      5,
+      10
+     ]
+    },
+    {
+     "text": "Income peaks late in this chapter — launder marked bills as they come in rather than stockpiling them, so the $250,000 laundering total keeps moving.",
+     "cites": [
+      2,
+      6
+     ]
+    },
+    {
+     "text": "If you have ignored the Shooting Range, start it now: 42 gold medals is the longest activity grind and benefits from being spread over two chapters.",
+     "cites": [
+      1,
+      9
+     ]
+    },
+    {
+     "text": "No choice in this chapter locks any trophy; the choices counter simply keeps counting.",
+     "cites": [
+      4,
+      8
+     ]
+    },
+    {
+     "text": "Make a manual save at the chapter's end. The finale is next, and a pre-finale save is the community's standard safety net.",
+     "cites": [
+      1,
+      3
+     ]
+    },
+    {
+     "text": "When the trophy pops, only the final mission stands between you and the gold story trophy — everything else on the list is cleanup from here.",
+     "cites": [
+      1,
+      2
+     ]
+    }
+   ]
+  },
+  {
+   "id": 7,
+   "name": "You Gotta Know When to Get Off",
+   "description": "Complete the final mission.",
+   "grade": "gold",
+   "hidden": true,
+   "kind": "story",
+   "stage": 5,
+   "count": null,
+   "count_label": null,
+   "missable_status": "none",
+   "confirm_status": "confirmed",
+   "disagree": false,
+   "sources": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    8,
+    9,
+    10,
+    11,
+    12
+   ],
+   "guide": "Finish the final story mission. This gold is unmissable and ends the campaign; everything left afterwards is free-roam cleanup toward 100% and the platinum.",
+   "steps": [
+    {
+     "text": "Start the finale from the story marker after Chapter 4; the mission is a long multi-part sequence and the trophy pops as the credits sequence begins.",
+     "cites": [
+      1,
+      10,
+      11,
+      12
+     ]
+    },
+    {
+     "text": "Stock ammo, armour and a fast insured car before starting — the finale chains combat and driving sections without a shop break.",
+     "cites": [
+      2,
+      3
+     ]
+    },
+    {
+     "text": "Mid-mission choices still count toward the 500-choice total, and no ending variation changes this trophy or blocks any other.",
+     "cites": [
+      4,
+      6
+     ]
+    },
+    {
+     "text": "If you fail a section, the checkpoint restarts are generous; completion, not style, is all the trophy asks.",
+     "cites": [
+      1,
+      8
+     ]
+    },
+    {
+     "text": "This is a gold and hidden on PSN — the biggest single pop of the story set, and it unlocks true free roam with no mission pressure.",
+     "cites": [
+      5,
+      10
+     ]
+    },
+    {
+     "text": "After the credits you return to the open world with all areas, contacts and activities available — the cleanup stages of this roadmap start here.",
+     "cites": [
+      1,
+      2
+     ]
+    },
+    {
+     "text": "Post-story is when the money trophies become realistic: heist payouts and laundering contacts all pay at their highest rates now.",
+     "cites": [
+      2,
+      6
+     ]
+    },
+    {
+     "text": "Guides agree nothing becomes unavailable after the finale — every spot, strand, range and race can still be finished, which is why this list has only one missable warning.",
+     "cites": [
+      1,
+      3,
+      12
+     ]
+    },
+    {
+     "text": "Your next milestone is A Long Road: the 100% completion gold, which the in-game completion counter tracks piece by piece.",
+     "cites": [
+      1,
+      5
+     ]
+    },
+    {
+     "text": "Keep the post-finale save as your main file; all remaining work in this guide assumes a finished story.",
+     "cites": [
+      2,
+      9
+     ]
+    }
+   ]
+  },
+  {
+   "id": 8,
+   "name": "Trust",
+   "description": "Complete Breakfast Run.",
+   "grade": "bronze",
+   "hidden": true,
+   "kind": "story",
+   "stage": 1,
+   "count": null,
+   "count_label": null,
+   "missable_status": "none",
+   "confirm_status": "confirmed",
+   "disagree": false,
+   "sources": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12
+   ],
+   "guide": "Finish Breakfast Run, the early Chapter 1 mission that pairs the two leads on a delivery job gone wrong. Unmissable and short.",
+   "steps": [
+    {
+     "text": "Breakfast Run appears as a story marker during Chapter 1 shortly after free roam opens; start it and follow the delivery route as marked.",
+     "cites": [
+      2,
+      10,
+      11,
+      12
+     ]
+    },
+    {
+     "text": "The mission teaches partner play: one lead drives while the other handles the drop, and the trophy needs only the finish, not a clean run.",
+     "cites": [
+      1,
+      4
+     ]
+    },
+    {
+     "text": "When the pickup goes wrong, stay with the truck until the scripted chase ends — leaving the area early just resets the checkpoint.",
+     "cites": [
+      2,
+      9
+     ]
+    },
+    {
+     "text": "The trophy pops at the mission's results screen; it is hidden on PSN like all mission trophies.",
+     "cites": [
+      5,
+      10
+     ]
+    },
+    {
+     "text": "Breakfast Run's route passes two meditation spots and a card location; you can grab them in free roam afterwards rather than mid-mission.",
+     "cites": [
+      3,
+      9
+     ]
+    },
+    {
+     "text": "The partner mechanics learned here are the same ones Hot Together and Retail Therapy rely on later, so note how the swap prompt works.",
+     "cites": [
+      1,
+      6
+     ]
+    },
+    {
+     "text": "Failing any section restarts a short checkpoint and never affects completion or any other trophy.",
+     "cites": [
+      2,
+      8
+     ]
+    },
+    {
+     "text": "Guides list no collectibles, choices or counters gated inside this mission — a single pass is the whole job.",
+     "cites": [
+      1,
+      7
+     ]
+    },
+    {
+     "text": "After it ends, Chapter 1 continues toward Paradise Lost; keep following story markers.",
+     "cites": [
+      1,
+      2
+     ]
+    },
+    {
+     "text": "If the pop is delayed, it registers at the next autosave — finish the short drive home that follows the mission.",
+     "cites": [
+      5,
+      6
+     ]
+    }
+   ]
+  },
+  {
+   "id": 9,
+   "name": "Break the Bank",
+   "description": "Complete The Cartel Heist.",
+   "grade": "bronze",
+   "hidden": true,
+   "kind": "story",
+   "stage": 2,
+   "count": null,
+   "count_label": null,
+   "missable_status": "none",
+   "confirm_status": "confirmed",
+   "disagree": false,
+   "sources": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12
+   ],
+   "guide": "Finish The Cartel Heist, Chapter 2's set-piece score. It introduces vault work and marked bills — the two systems the crime and money trophies are built on.",
+   "steps": [
+    {
+     "text": "The Cartel Heist unlocks midway through Chapter 2 after its setup missions; complete the setups and start the heist from the planning marker.",
+     "cites": [
+      1,
+      10,
+      11,
+      12
+     ]
+    },
+    {
+     "text": "Choose either approach path — both end in the same vault sequence and the same trophy; the choice also feeds the choices counter.",
+     "cites": [
+      2,
+      6
+     ]
+    },
+    {
+     "text": "Inside the vault, fill every bag before leaving: the payout matters less than the marked bills it introduces for the laundering system.",
+     "cites": [
+      1,
+      7
+     ]
+    },
+    {
+     "text": "The escape is scripted to a four-star wanted level; follow the marked route rather than improvising and the chase ends on cue.",
+     "cites": [
+      2,
+      4
+     ]
+    },
+    {
+     "text": "The trophy pops when the heist's results and payout screens finish; it is hidden on PSN.",
+     "cites": [
+      5,
+      10
+     ]
+    },
+    {
+     "text": "Maximum Withdrawal's bank vaults use this same drill-and-bag loop in free roam, so treat the heist as the tutorial for it.",
+     "cites": [
+      3,
+      7
+     ]
+    },
+    {
+     "text": "Launder the heist's marked bills through the contact you meet afterwards — that flow, repeated, is the whole of Dime on the Dollar.",
+     "cites": [
+      1,
+      6
+     ]
+    },
+    {
+     "text": "A failed escape restarts at the vault exit; no approach choice can lock the trophy or the chapter.",
+     "cites": [
+      2,
+      8
+     ]
+    },
+    {
+     "text": "Guides agree the heist is the best early income in the game — bank most of it toward the garage set rather than spending it on cars.",
+     "cites": [
+      1,
+      9
+     ]
+    },
+    {
+     "text": "Finishing the heist pushes Chapter 2 toward its finale and the T**s Ass Drug Money chapter trophy.",
+     "cites": [
+      1,
+      2
+     ]
+    }
+   ]
+  },
+  {
+   "id": 10,
+   "name": "Family Matters",
+   "description": "Complete Child's Play.",
+   "grade": "bronze",
+   "hidden": true,
+   "kind": "story",
+   "stage": 3,
+   "count": null,
+   "count_label": null,
+   "missable_status": "none",
+   "confirm_status": "confirmed",
+   "disagree": false,
+   "sources": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12
+   ],
+   "guide": "Finish Child's Play, the Chapter 3 mission centred on family and a schoolyard problem that escalates. Unmissable story content.",
+   "steps": [
+    {
+     "text": "Child's Play starts from a story marker early in Chapter 3; follow the family errand as it escalates and the mission completes at the drive home.",
+     "cites": [
+      2,
+      10,
+      11,
+      12
+     ]
+    },
+    {
+     "text": "The middle section is a tailing sequence — stay at the marked distance; losing the target briefly is forgiven, ramming them is not.",
+     "cites": [
+      1,
+      4
+     ]
+    },
+    {
+     "text": "A short on-foot section follows; there are no collectibles or counters inside it, so just play it through.",
+     "cites": [
+      3,
+      7
+     ]
+    },
+    {
+     "text": "The trophy pops at the results screen and is hidden on PSN until earned.",
+     "cites": [
+      5,
+      10
+     ]
+    },
+    {
+     "text": "Dialogue choices in this mission count toward the 500-choice total whichever way you answer.",
+     "cites": [
+      4,
+      6
+     ]
+    },
+    {
+     "text": "The mission's neighbourhood holds two collectible cards and a WAiNK spot — all reachable in free roam afterwards, none gated by the mission.",
+     "cites": [
+      6,
+      9
+     ]
+    },
+    {
+     "text": "Failures restart from close checkpoints; nothing about performance — time, damage, detections — affects the trophy.",
+     "cites": [
+      2,
+      8
+     ]
+    },
+    {
+     "text": "Guides place this mission before Headliners in the chapter order, so DWNFALL is your next named mission trophy.",
+     "cites": [
+      1,
+      7
+     ]
+    },
+    {
+     "text": "If you are sampling activities as they unlock, the arcade near this mission's start is a convenient first clear for Stick Fiddler.",
+     "cites": [
+      2,
+      3
+     ]
+    },
+    {
+     "text": "Completion also advances Chapter 3 toward Vice City, Baby! — keep following the story chain.",
+     "cites": [
+      1,
+      2
+     ]
+    }
+   ]
+  },
+  {
+   "id": 11,
+   "name": "DWNFALL",
+   "description": "Complete Headliners.",
+   "grade": "bronze",
+   "hidden": true,
+   "kind": "story",
+   "stage": 3,
+   "count": null,
+   "count_label": null,
+   "missable_status": "none",
+   "confirm_status": "confirmed",
+   "disagree": false,
+   "sources": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12
+   ],
+   "guide": "Finish Headliners, the Chapter 3 media mission built around a headline act and the drones filming it. Unmissable; also your first real drone flying.",
+   "steps": [
+    {
+     "text": "Headliners unlocks after Child's Play in Chapter 3; start it at the venue marker and follow the production schedule the mission lays out.",
+     "cites": [
+      1,
+      10,
+      11,
+      12
+     ]
+    },
+    {
+     "text": "The drone sections teach the racing lines used by Top Fun — take them slowly the first time; the trophy does not grade your flying.",
+     "cites": [
+      3,
+      7
+     ]
+    },
+    {
+     "text": "Keep the headline act in frame during the filming sequence; drifting out of the marked zone just rewinds a few seconds.",
+     "cites": [
+      2,
+      4
+     ]
+    },
+    {
+     "text": "The finale is a scripted chase across the venue district; stay on the route and it resolves itself.",
+     "cites": [
+      2,
+      9
+     ]
+    },
+    {
+     "text": "The trophy pops at the results screen; hidden on PSN until earned.",
+     "cites": [
+      5,
+      10
+     ]
+    },
+    {
+     "text": "Two Top Fun drone race locations open near the venue after this mission — winning there later is the same handling, against a clock.",
+     "cites": [
+      3,
+      6
+     ]
+    },
+    {
+     "text": "No collectibles are gated inside the mission area; everything around the venue is free-roam content.",
+     "cites": [
+      1,
+      8
+     ]
+    },
+    {
+     "text": "Choices in the press segments feed the choices counter either way.",
+     "cites": [
+      4,
+      6
+     ]
+    },
+    {
+     "text": "Failing a filming beat restarts it immediately, with no effect on completion or medals elsewhere.",
+     "cites": [
+      2,
+      7
+     ]
+    },
+    {
+     "text": "After Headliners, Chapter 3 winds toward its finale — the chapter trophy is close.",
+     "cites": [
+      1,
+      2
+     ]
+    }
+   ]
+  },
+  {
+   "id": 12,
+   "name": "Hi-Jacked",
+   "description": "Complete VCIA Takedown.",
+   "grade": "bronze",
+   "hidden": true,
+   "kind": "story",
+   "stage": 4,
+   "count": null,
+   "count_label": null,
+   "missable_status": "none",
+   "confirm_status": "confirmed",
+   "disagree": false,
+   "sources": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12
+   ],
+   "guide": "Finish VCIA Takedown, the Chapter 4 airport set-piece. It also walks you through the terminal layout that Catch Me If You Can depends on — learn it while the mission shows you around.",
+   "steps": [
+    {
+     "text": "VCIA Takedown opens Chapter 4's back half; complete its short setup at the airport perimeter, then start the takedown proper.",
+     "cites": [
+      1,
+      10,
+      11,
+      12
+     ]
+    },
+    {
+     "text": "The infiltration section rewards patience: follow the marked service corridors and you can reach the hangar without a firefight.",
+     "cites": [
+      2,
+      3
+     ]
+    },
+    {
+     "text": "Note the departures layout as you pass through the terminal — the unscheduled-departure trophy uses these same doors, desks and jetways.",
+     "cites": [
+      3,
+      6
+     ]
+    },
+    {
+     "text": "The hangar fight is the mission's peak; use the parked vehicles as cover and let your partner draw fire on the flank.",
+     "cites": [
+      2,
+      4
+     ]
+    },
+    {
+     "text": "The escape uses a service aircraft — keep to the marked taxi route and the takeoff triggers automatically.",
+     "cites": [
+      1,
+      9
+     ]
+    },
+    {
+     "text": "The trophy pops at the results screen; hidden on PSN until earned.",
+     "cites": [
+      5,
+      10
+     ]
+    },
+    {
+     "text": "Do Catch Me If You Can soon after this mission, while the airport layout is fresh — guides treat the two as a pair.",
+     "cites": [
+      3,
+      7
+     ]
+    },
+    {
+     "text": "Nothing inside the mission is collectible-gated; the airport's cards and spots are all free-roam pickups.",
+     "cites": [
+      1,
+      8
+     ]
+    },
+    {
+     "text": "Failing any section restarts a close checkpoint and never affects the chapter or the watch trophy.",
+     "cites": [
+      2,
+      6
+     ]
+    },
+    {
+     "text": "Finishing the takedown leaves Operation Savage Glory as Chapter 4's remaining named mission.",
+     "cites": [
+      1,
+      2
+     ]
+    }
+   ]
+  },
+  {
+   "id": 13,
+   "name": "Snow Storm",
+   "description": "Complete Operation Savage Glory.",
+   "grade": "bronze",
+   "hidden": true,
+   "kind": "story",
+   "stage": 4,
+   "count": null,
+   "count_label": null,
+   "missable_status": "none",
+   "confirm_status": "confirmed",
+   "disagree": false,
+   "sources": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12
+   ],
+   "guide": "Finish Operation Savage Glory, Chapter 4's closing assault and the last named mission before the finale. Unmissable, combat-heavy, and the natural place to learn Combat Focus.",
+   "steps": [
+    {
+     "text": "Operation Savage Glory is Chapter 4's final named mission; start it after VCIA Takedown and complete the briefing drive first.",
+     "cites": [
+      1,
+      10,
+      11,
+      12
+     ]
+    },
+    {
+     "text": "The assault opens with a vehicle section — bring an armoured car if you have one; the mission provides a serviceable default if not.",
+     "cites": [
+      2,
+      4
+     ]
+    },
+    {
+     "text": "Combat Focus is showcased here: the slow-motion targeting that Gunslinger asks you to score five takedowns with in a single use.",
+     "cites": [
+      3,
+      6
+     ]
+    },
+    {
+     "text": "Practise the Gunslinger pattern on the mid-mission courtyard group — five clustered enemies, one Focus activation; if it does not pop, free-roam crowds work later too.",
+     "cites": [
+      3,
+      9
+     ]
+    },
+    {
+     "text": "The trophy pops at the results screen after the closing escape; hidden on PSN until earned.",
+     "cites": [
+      5,
+      10
+     ]
+    },
+    {
+     "text": "The operation's compound holds no gated collectibles — its cards and spots are reachable in free roam.",
+     "cites": [
+      1,
+      8
+     ]
+    },
+    {
+     "text": "Choices at the briefing feed the choices counter; neither branch changes the mission's outcome or the trophy.",
+     "cites": [
+      4,
+      6
+     ]
+    },
+    {
+     "text": "Heavy weapons from this mission stay in your inventory afterwards, which speeds up the free-roam vault and gang-operation trophies.",
+     "cites": [
+      2,
+      7
+     ]
+    },
+    {
+     "text": "Failures restart at generous checkpoints, including mid-assault.",
+     "cites": [
+      2,
+      8
+     ]
+    },
+    {
+     "text": "Completing it finishes Chapter 4's named set and unlocks the run to Top Of The World, Ma and the finale.",
+     "cites": [
+      1,
+      2
+     ]
+    }
+   ]
+  },
+  {
+   "id": 14,
+   "name": "A Long Road",
+   "description": "Attain 100% Completion.",
+   "grade": "gold",
+   "hidden": false,
+   "kind": "misc",
+   "stage": 7,
+   "count": 100,
+   "count_label": "% completion",
+   "missable_status": "none",
+   "confirm_status": "confirmed",
+   "disagree": false,
+   "sources": [
+    1,
+    2,
+    3,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12
+   ],
+   "guide": "Reach 100% on the in-game completion counter. It is a checklist of checklists — story, strangers, activities, collectibles and hobbies — and this app's roadmap is ordered to fill it in the fastest sequence.",
+   "steps": [
+    {
+     "text": "Open the in-game completion page and treat it as the master list: story missions, stranger strands, hobbies and pastimes, collectibles and miscellaneous tasks each carry a weighted share.",
+     "cites": [
+      1,
+      8,
+      11,
+      12
+     ]
+    },
+    {
+     "text": "The story is the largest single block — finishing the final mission banks the whole story share at once.",
+     "cites": [
+      1,
+      10
+     ]
+    },
+    {
+     "text": "Stranger strands count individually, so the eight strands for Strangers & Freaks are only part of this total; finish every strand the map offers, not just eight.",
+     "cites": [
+      2,
+      7
+     ]
+    },
+    {
+     "text": "Collectibles feed this counter as well as their own trophies: meditation spots, card sets, WAiNK locations and discovered vehicles all move the percentage.",
+     "cites": [
+      3,
+      9
+     ]
+    },
+    {
+     "text": "Activities — range challenges, races, stunts and the arcade — each contribute; gold medals are only required by their own trophy, not by 100% itself.",
+     "cites": [
+      1,
+      5
+     ]
+    },
+    {
+     "text": "Use this app's counters: when a widget here reads full, the matching slice of the completion page is almost always banked.",
+     "cites": [
+      9,
+      10
+     ]
+    },
+    {
+     "text": "The last few percent are usually miscellaneous: unique jumps landed, properties owned, and one-off world events — check the completion page's smallest categories first.",
+     "cites": [
+      2,
+      7
+     ]
+    },
+    {
+     "text": "Nothing toward 100% is missable after the story; the whole total can be assembled in free roam, which is why guides schedule it last.",
+     "cites": [
+      1,
+      3,
+      12
+     ]
+    },
+    {
+     "text": "The trophy pops the moment the counter reaches 100%, mid-activity if that is where the final fraction lands.",
+     "cites": [
+      5,
+      10
+     ]
+    },
+    {
+     "text": "For most players this gold is the penultimate pop before the platinum — what remains afterwards is usually a money total or a single grind.",
+     "cites": [
+      1,
+      2
+     ]
+    },
+    {
+     "text": "If your counter stalls at 99%, compare category-by-category against a list source; a single unstarted stranger strand is the most common culprit.",
+     "cites": [
+      6,
+      8
+     ]
+    },
+    {
+     "text": "Keep the completion page open as a second screen during cleanup sessions — watching the last categories close is the surest way to avoid re-checking finished work.",
+     "cites": [
+      3,
+      7
+     ]
+    }
+   ]
+  },
+  {
+   "id": 15,
+   "name": "Cunning Stunts",
+   "description": "Complete 250 Stunts.",
+   "grade": "silver",
+   "hidden": false,
+   "kind": "activities",
+   "stage": 6,
+   "count": 250,
+   "count_label": "stunts",
+   "missable_status": "none",
+   "confirm_status": "confirmed",
+   "disagree": false,
+   "sources": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    11,
+    12
+   ],
+   "guide": "Land 250 stunts — jumps, flips and stunt-series tricks across Leonida. The counter rewards variety of driving more than any single ramp; work it into every drive from the first chapter.",
+   "steps": [
+    {
+     "text": "A stunt registers when the game flashes its stunt banner — airtime tricks, unique jumps and stunt-series events all count toward the same 250.",
+     "cites": [
+      1,
+      8,
+      11,
+      12
+     ]
+    },
+    {
+     "text": "Start early: ramps sit along most highways, and banking a handful per drive turns a silver grind into background progress.",
+     "cites": [
+      2,
+      3
+     ]
+    },
+    {
+     "text": "Unique jump locations each count once at full value; repeat jumps still count but are the slow way — follow a collectible route and hit each ramp once.",
+     "cites": [
+      3,
+      9
+     ]
+    },
+    {
+     "text": "Motorcycles are the most forgiving stunt vehicles: lighter, easier to rotate, and they survive landings that wreck cars.",
+     "cites": [
+      1,
+      4
+     ]
+    },
+    {
+     "text": "A stunt only banks if you land it — wheels down, no rollover. If the banner never appears, the landing did not count.",
+     "cites": [
+      2,
+      8
+     ]
+    },
+    {
+     "text": "The Keys causeways and the airport perimeter are the densest stunt areas; a single causeway run can add double figures.",
+     "cites": [
+      3,
+      9
+     ]
+    },
+    {
+     "text": "Stunt series events (marked challenges) count double-duty: they are stunts for this trophy and challenges for One Last Thing.",
+     "cites": [
+      1,
+      7
+     ]
+    },
+    {
+     "text": "Track your pace with the counter widget in this guide — 250 sounds large but averages out to a few per hour of ordinary driving.",
+     "cites": [
+      7,
+      9
+     ]
+    },
+    {
+     "text": "Rain and night do not change stunt detection; traffic does — quieter early-morning roads make cleaner run-ups.",
+     "cites": [
+      4,
+      8
+     ]
+    },
+    {
+     "text": "If you reach the cleanup stage short, run a published stunt route end to end rather than hunting ramps at random; routes string 30+ jumps per loop.",
+     "cites": [
+      1,
+      3
+     ]
+    },
+    {
+     "text": "The trophy pops on the landing of the 250th counted stunt, mid-drive.",
+     "cites": [
+      5,
+      6
+     ]
+    }
+   ]
+  },
+  {
+   "id": 16,
+   "name": "Master of None",
+   "description": "Try each type of activity once.",
+   "grade": "bronze",
+   "hidden": false,
+   "kind": "activities",
+   "stage": 6,
+   "count": 9,
+   "count_label": "activity types",
+   "missable_status": "none",
+   "confirm_status": "confirmed",
+   "disagree": true,
+   "disagree_note": "How many activity types are there? The trophy list and most guides say 9: races, drone races, shooting range, fishing, arcade games, stunt series, meditation, bowling and hunting. One guide counts 10 by splitting drone racing from road racing as its own type. The tracker here follows the official 9 — if you have tried all 9 and the trophy is silent, try one drone race as the 'tenth' and it resolves either way.",
+   "sources": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12
+   ],
+   "guide": "Sample every activity type once: races, drone races, the shooting range, fishing, an arcade game, a stunt series, meditation, bowling and a hunt. One attempt each — finishing positions do not matter.",
+   "steps": [
+    {
+     "text": "The nine types are: road races, Top Fun drone races, Shooting Range challenges, fishing, arcade games, stunt series, meditation spots, bowling, and hunting trips.",
+     "cites": [
+      1,
+      5,
+      11,
+      12
+     ]
+    },
+    {
+     "text": "You only need to try each once — a last-place race and a thirty-second fishing cast count exactly like wins.",
+     "cites": [
+      2,
+      6
+     ]
+    },
+    {
+     "text": "Several types are introduced by the story itself: fishing in Gone Fishing, drones in Headliners, the range in Chapter 3 — those samplings already count.",
+     "cites": [
+      1,
+      10
+     ]
+    },
+    {
+     "text": "Meditation counts as its own type: any single spot, sat through once, ticks it — the balcony spot in Chapter 1 does this on your way to the missable.",
+     "cites": [
+      3,
+      6
+     ]
+    },
+    {
+     "text": "Bowling is sampled at the Kolt & Associates alley, the same visit that sets up Let's Go Bowling.",
+     "cites": [
+      2,
+      7
+     ]
+    },
+    {
+     "text": "Hunting unlocks through Bret's strand; a single hunt — successful or not — registers the type.",
+     "cites": [
+      4,
+      9
+     ]
+    },
+    {
+     "text": "The arcade type needs one completed game, which is also the whole of Stick Fiddler; do them together.",
+     "cites": [
+      2,
+      3
+     ]
+    },
+    {
+     "text": "If the trophy does not pop after all nine, the disagreement note above applies: one guide's tenth type is drone racing counted separately, so log one more drone race.",
+     "cites": [
+      4,
+      5
+     ]
+    },
+    {
+     "text": "Activity types unlock across the chapters, so this trophy cannot be finished in Chapter 1 no matter how thorough you are.",
+     "cites": [
+      1,
+      8
+     ]
+    },
+    {
+     "text": "Use the counter widget here to tick types off as you sample them; the trophy pops on the final new type.",
+     "cites": [
+      6,
+      10
+     ]
+    }
+   ]
+  },
+  {
+   "id": 17,
+   "name": "The Shootist",
+   "description": "Earn a gold medal in all Shooting Range challenges.",
+   "grade": "silver",
+   "hidden": false,
+   "kind": "activities",
+   "stage": 6,
+   "count": 42,
+   "count_label": "range challenges",
+   "missable_status": "none",
+   "confirm_status": "confirmed",
+   "disagree": true,
+   "disagree_note": "How many range challenges are there? Most sources and the official list say 42. One guide's index shows 40 standard challenges and treats the last 2 as unlockable bonus lanes that open after the story. This tracker counts 42 — if your in-game board shows 40, finish the story and the final pair appears.",
+   "sources": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    11,
+    12
+   ],
+   "guide": "Gold-medal every Shooting Range challenge — 42 of them across the state's ranges. It is a score-attack grind: learn each lane's target pattern, then chase accuracy bonuses over raw speed.",
+   "steps": [
+    {
+     "text": "Ranges sit in and around the major towns; each hosts a set of challenges by weapon class — pistols, rifles, shotguns, and mixed lanes — 42 challenges in total.",
+     "cites": [
+      1,
+      5,
+      11,
+      12
+     ]
+    },
+    {
+     "text": "Gold is score-based, not time-based: chained hits and headshots build the multiplier that actually carries a run over the gold line.",
+     "cites": [
+      2,
+      8
+     ]
+    },
+    {
+     "text": "Learn a lane before chasing it: one slow sighting run to memorise where targets appear beats five blind attempts.",
+     "cites": [
+      1,
+      3
+     ]
+    },
+    {
+     "text": "Accuracy bonuses outweigh speed — a missed shot breaks your chain and costs more than the second you saved firing early.",
+     "cites": [
+      2,
+      9
+     ]
+    },
+    {
+     "text": "If your board shows only 40 challenges, see the disagreement note: the final 2 lanes unlock after the story ends.",
+     "cites": [
+      3,
+      5,
+      11
+     ]
+    },
+    {
+     "text": "Weapon upgrades do not carry into range lanes — every challenger uses the lane's stock gun, so this is pure pattern skill.",
+     "cites": [
+      1,
+      4
+     ]
+    },
+    {
+     "text": "Spread the grind: a few golds per session keeps the patterns fresh, and story progress unlocks later ranges anyway.",
+     "cites": [
+      2,
+      8
+     ]
+    },
+    {
+     "text": "The counter widget here tracks golds, not attempts — tick it only when the medal screen actually shows gold.",
+     "cites": [
+      7,
+      9
+     ]
+    },
+    {
+     "text": "Shotgun lanes are the usual wall: stand at the marked line's centre, lead the crossing targets slightly, and let the spread work.",
+     "cites": [
+      3,
+      7
+     ]
+    },
+    {
+     "text": "Silver medals still count toward 100% completion activities — only this trophy insists on gold.",
+     "cites": [
+      1,
+      8
+     ]
+    },
+    {
+     "text": "The trophy pops on the results screen of your 42nd gold medal.",
+     "cites": [
+      5,
+      6,
+      11
+     ]
+    }
+   ]
+  },
+  {
+   "id": 18,
+   "name": "Top Fun",
+   "description": "Win a Top Fun Drone Race at every location.",
+   "grade": "bronze",
+   "hidden": false,
+   "kind": "activities",
+   "stage": 6,
+   "count": 14,
+   "count_label": "drone race locations",
+   "missable_status": "none",
+   "confirm_status": "confirmed",
+   "disagree": false,
+   "sources": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    11,
+    12
+   ],
+   "guide": "Win one Top Fun drone race at each of the 14 locations. Winning — not just entering — is required, but the AI field is gentle and every course can be retried instantly.",
+   "steps": [
+    {
+     "text": "Top Fun locations are marked drone-race icons; there are 14 spread across the state, most opening as the story reveals new areas.",
+     "cites": [
+      1,
+      8,
+      11,
+      12
+     ]
+    },
+    {
+     "text": "You must finish first at each location once — a single win per course is enough, and your best time is kept for the race trophies.",
+     "cites": [
+      2,
+      5
+     ]
+    },
+    {
+     "text": "Headliners teaches the handling: gates in sequence, gentle banking, and a boost that recharges between gates.",
+     "cites": [
+      3,
+      7
+     ]
+    },
+    {
+     "text": "Learn each course with one slow lap first; the winning line is usually the one that clips the inside of every gate rather than the fastest raw path.",
+     "cites": [
+      1,
+      9
+     ]
+    },
+    {
+     "text": "Missing a gate adds a time penalty rather than a restart — a clean slower lap beats a fast sloppy one.",
+     "cites": [
+      2,
+      4
+     ]
+    },
+    {
+     "text": "Rival drones bunch at the first gate; hang back half a second and take the inside line while they tangle.",
+     "cites": [
+      3,
+      8
+     ]
+    },
+    {
+     "text": "Wins here also count toward Earn Cash, Not Kudos's 20 different race wins if the event is classed as a race — drone wins are the fastest way to pad that total.",
+     "cites": [
+      2,
+      8
+     ]
+    },
+    {
+     "text": "Tick each location off in the counter widget as you win it; courses do not mark themselves clearly on the world map afterwards.",
+     "cites": [
+      7,
+      9
+     ]
+    },
+    {
+     "text": "Night races are the same courses with worse visibility — run new locations in daylight first.",
+     "cites": [
+      4,
+      9
+     ]
+    },
+    {
+     "text": "The trophy pops at the results screen of your 14th location win.",
+     "cites": [
+      5,
+      6,
+      11
+     ]
+    }
+   ]
+  },
+  {
+   "id": 19,
+   "name": "Earn Cash, Not Kudos",
+   "description": "Win 20 different races.",
+   "grade": "bronze",
+   "hidden": false,
+   "kind": "activities",
+   "stage": 6,
+   "count": 20,
+   "count_label": "different races",
+   "missable_status": "none",
+   "confirm_status": "confirmed",
+   "disagree": false,
+   "sources": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    11,
+    12
+   ],
+   "guide": "Win 20 different races — different events, not the same one 20 times. Road races, street series and Top Fun drone events all feed the same counter.",
+   "steps": [
+    {
+     "text": "The keyword is different: each win must be a distinct event on the map, so move around the race icons instead of farming one easy circuit.",
+     "cites": [
+      1,
+      8,
+      11,
+      12
+     ]
+    },
+    {
+     "text": "Road races, boat races and Top Fun drone races all count toward the 20, which makes this far quicker than it first looks.",
+     "cites": [
+      2,
+      3
+     ]
+    },
+    {
+     "text": "If you are already winning all 14 drone locations for Top Fun, you need only six road or boat wins on top.",
+     "cites": [
+      2,
+      9
+     ]
+    },
+    {
+     "text": "Bring a car a class above the field where the event allows your own vehicle — several street races are effectively won at the garage screen.",
+     "cites": [
+      1,
+      4
+     ]
+    },
+    {
+     "text": "Rubber-banding is mild: a clean first lap matters more than the last, because the field bunches early and strings out late.",
+     "cites": [
+      3,
+      8
+     ]
+    },
+    {
+     "text": "Wet races reward braking earlier, not driving slower overall — the AI makes the same mistakes you do, only more often.",
+     "cites": [
+      4,
+      7
+     ]
+    },
+    {
+     "text": "Tick wins in the counter widget as you go; the map does not keep a clear won/unwon distinction for every series.",
+     "cites": [
+      7,
+      9
+     ]
+    },
+    {
+     "text": "Race wins also pay early-game cash that counts toward your spending and savings totals — a useful double dip in Chapters 2 and 3.",
+     "cites": [
+      2,
+      8
+     ]
+    },
+    {
+     "text": "A win only registers at the results screen, so do not quit out on the final straight, however safe the lead feels.",
+     "cites": [
+      1,
+      5
+     ]
+    },
+    {
+     "text": "The trophy pops on your 20th distinct event win.",
+     "cites": [
+      5,
+      6
+     ]
+    }
+   ]
+  },
+  {
+   "id": 20,
+   "name": "Baited My Tackle",
+   "description": "Beat Cal in a fishing challenge.",
+   "grade": "bronze",
+   "hidden": false,
+   "kind": "activities",
+   "stage": 6,
+   "count": null,
+   "count_label": null,
+   "missable_status": "none",
+   "confirm_status": "confirmed",
+   "disagree": true,
+   "sources": [
+    2,
+    4,
+    5,
+    6,
+    8,
+    9,
+    10,
+    11,
+    12
+   ],
+   "guide": "Beat Cal — the fishing rival introduced after the prologue — in one of his head-to-head fishing challenges. Two sources now cover the challenge format in detail and frame it differently — the disagreement note shows both, and the steps follow both.",
+   "steps": [
+    {
+     "text": "Cal's challenges unlock after Gone Fishing once you meet him at the Keys bait shop; he offers scored head-to-head rounds at marked fishing piers.",
+     "cites": [
+      2,
+      9,
+      11,
+      12
+     ]
+    },
+    {
+     "text": "A challenge is a timed weight contest: the heavier total catch in the round wins, not the single biggest fish.",
+     "cites": [
+      2,
+      9
+     ]
+    },
+    {
+     "text": "Use the best rod and bait you own — the challenge uses your own tackle, unlike the fixed-gear range lanes.",
+     "cites": [
+      2,
+      4,
+      11
+     ]
+    },
+    {
+     "text": "Cast to the ripples: visible surface activity marks where the scoring fish are feeding during the round.",
+     "cites": [
+      2,
+      9
+     ]
+    },
+    {
+     "text": "Small fish banked quickly beat one long fight — if a hook-up feels heavy and slow early, it can still be worth finishing for the weight.",
+     "cites": [
+      2,
+      9
+     ]
+    },
+    {
+     "text": "Losing costs nothing but the entry minutes; Cal can be rechallenged immediately at the same pier.",
+     "cites": [
+      2,
+      8,
+      11
+     ]
+    },
+    {
+     "text": "Weather matters in the single detailed account: overcast mornings produced the most active water — treat that as a tip, not a rule.",
+     "cites": [
+      4,
+      9
+     ]
+    },
+    {
+     "text": "The trophy pops at the challenge results screen the first time your total beats Cal's.",
+     "cites": [
+      2,
+      5,
+      11
+     ]
+    },
+    {
+     "text": "Fishing also ticks one of the nine activity types for Master of None, and challenge rounds count toward the 50 challenges for One Last Thing.",
+     "cites": [
+      2,
+      6,
+      11
+     ]
+    },
+    {
+     "text": "Because the two detailed accounts frame the challenge differently, if a step here disagrees with what the game shows you, trust the game — and the official description above all.",
+     "cites": [
+      2,
+      10
+     ]
+    },
+    {
+     "text": "Push Square's framing of the same challenge: Cal asks you to catch a Parrotfish over 2kg — fish the area marked on your map, from a boat with a fishing rod, until a fish over the mark bites; if you have no boat, plenty nearby can be borrowed.",
+     "cites": [
+      2,
+      11
+     ]
+    }
+   ],
+   "disagree_note": "How is Cal's challenge framed? The first detailed account describes scored head-to-head rounds at marked piers, won on the heavier total catch. Push Square's guide frames the same challenge as a direct request: Cal asks for a Parrotfish over 2kg, caught in the area marked on your map from a boat with a fishing rod. Both agree on the setting — Cal, marked fishing water, your own tackle — so the steps carry both framings; whichever way your round is presented, the marked water is where it is won."
+  },
+  {
+   "id": 21,
+   "name": "Stick Fiddler",
+   "description": "Complete an arcade game.",
+   "grade": "bronze",
+   "hidden": false,
+   "kind": "activities",
+   "stage": 6,
+   "count": null,
+   "count_label": null,
+   "missable_status": "none",
+   "confirm_status": "confirmed",
+   "disagree": false,
+   "sources": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    11,
+    12
+   ],
+   "guide": "Complete — finish, not just play — one arcade game at any arcade or cabinet in Leonida. The shortest cabinet game takes a few minutes and doubles as your arcade sample for Master of None.",
+   "steps": [
+    {
+     "text": "Arcade cabinets sit in arcades, bars and the bowling alley; interact with any cabinet and pick a game — completing it to its end screen is what counts.",
+     "cites": [
+      2,
+      4,
+      12
+     ]
+    },
+    {
+     "text": "The shortest games are the retro racers and the fixed-screen shooters; a full completion run is only a few minutes each.",
+     "cites": [
+      1,
+      7
+     ]
+    },
+    {
+     "text": "You do not need a high score or a win — reaching the game's completion or final level screen is the trigger.",
+     "cites": [
+      2,
+      5
+     ]
+    },
+    {
+     "text": "Quitting mid-game does not count, even on the last level; the trophy pops as the cabinet returns to its attract screen after completion.",
+     "cites": [
+      4,
+      8
+     ]
+    },
+    {
+     "text": "This doubles as the arcade type for Master of None — one completion ticks both trophies' requirements.",
+     "cites": [
+      1,
+      8
+     ]
+    },
+    {
+     "text": "Cabinets cost a few dollars per play, all of which also counts toward the $100,000 spending total.",
+     "cites": [
+      2,
+      3
+     ]
+    },
+    {
+     "text": "If a cabinet seems unplayable, it may be a decorative unit — working cabinets glow and show an interact prompt.",
+     "cites": [
+      4,
+      8
+     ]
+    },
+    {
+     "text": "The bowling alley's cabinets are the most convenient: one trip can cover this, bowling for Master of None, and Let's Go Bowling's setup.",
+     "cites": [
+      2,
+      7
+     ]
+    },
+    {
+     "text": "There is no fail state that locks anything — credits are cheap and retries instant.",
+     "cites": [
+      1,
+      8
+     ]
+    },
+    {
+     "text": "The trophy pops on completion of the first full arcade game, whichever cabinet you choose.",
+     "cites": [
+      5,
+      6
+     ]
+    }
+   ]
+  },
+  {
+   "id": 22,
+   "name": "Road to Rehabilitation",
+   "description": "Complete the final mission for Andy.",
+   "grade": "bronze",
+   "hidden": true,
+   "kind": "side",
+   "stage": 6,
+   "count": null,
+   "count_label": null,
+   "missable_status": "none",
+   "confirm_status": "confirmed",
+   "disagree": false,
+   "sources": [
+    1,
+    2,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12
+   ],
+   "guide": "Finish Andy's stranger strand — every mission in his chain, through to his final job. Strands unlock in stages as the story advances, so his last mission only appears late.",
+   "steps": [
+    {
+     "text": "Andy's strand starts at his first stranger marker; each completed mission unlocks the next after an in-game delay or a story beat.",
+     "cites": [
+      2,
+      4,
+      11,
+      12
+     ]
+    },
+    {
+     "text": "If a follow-up does not appear, advance the story or sleep — strand continuations are gated on time and chapter progress, not lost.",
+     "cites": [
+      1,
+      7
+     ]
+    },
+    {
+     "text": "The final mission is the one the description means: strands have several steps, and only finishing the last one pops the trophy.",
+     "cites": [
+      2,
+      5
+     ]
+    },
+    {
+     "text": "Andy's chain also counts as one of the eight strands for Strangers & Freaks and toward the 100% stranger total.",
+     "cites": [
+      1,
+      8
+     ]
+    },
+    {
+     "text": "This trophy is hidden on PSN, as are all the strand-finale trophies — they appear only once earned.",
+     "cites": [
+      5,
+      6
+     ]
+    },
+    {
+     "text": "Choices inside Andy's missions feed the choices counter; none of them can end the strand early.",
+     "cites": [
+      4,
+      10
+     ]
+    },
+    {
+     "text": "Bring a mid-tier car for his driving jobs; the strand is more about routes than combat.",
+     "cites": [
+      2,
+      9
+     ]
+    },
+    {
+     "text": "Failing a strand mission restarts it cleanly — strands cannot be failed permanently.",
+     "cites": [
+      1,
+      8
+     ]
+    },
+    {
+     "text": "The trophy pops at the final mission's results screen.",
+     "cites": [
+      5,
+      10
+     ]
+    },
+    {
+     "text": "If Andy's marker vanishes late-game, check the map filter: strand markers hide under the activities filter at some zoom levels.",
+     "cites": [
+      4,
+      7
+     ]
+    }
+   ]
+  },
+  {
+   "id": 23,
+   "name": "This Was No Boat Accident",
+   "description": "Complete the final mission for Kenton.",
+   "grade": "bronze",
+   "hidden": true,
+   "kind": "side",
+   "stage": 6,
+   "count": null,
+   "count_label": null,
+   "missable_status": "none",
+   "confirm_status": "confirmed",
+   "disagree": false,
+   "sources": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12
+   ],
+   "guide": "Finish Kenton's stranger strand — the boating chain that ends, as the title jokes, with something in the water. Complete every step of his chain through the finale.",
+   "steps": [
+    {
+     "text": "Kenton's strand begins at a marina stranger marker once the Keys are open; his chain is water-based from the first job.",
+     "cites": [
+      2,
+      7,
+      11,
+      12
+     ]
+    },
+    {
+     "text": "Work through his missions in order — each unlocks the next after time passes or the story advances a beat.",
+     "cites": [
+      1,
+      4
+     ]
+    },
+    {
+     "text": "Bring or borrow a fast boat for the later jobs; the strand's chases are tuned for the mid-tier speedboat he points you to.",
+     "cites": [
+      2,
+      9
+     ]
+    },
+    {
+     "text": "The final mission is the trophy's trigger — earlier steps alone do not pop it, however dramatic they get.",
+     "cites": [
+      2,
+      5
+     ]
+    },
+    {
+     "text": "Kenton's strand counts toward the eight for Strangers & Freaks and the 100% stranger total.",
+     "cites": [
+      1,
+      6
+     ]
+    },
+    {
+     "text": "Hidden on PSN until earned, matching the other strand finales.",
+     "cites": [
+      5,
+      7
+     ]
+    },
+    {
+     "text": "The finale's set-piece is scripted — stay in the boat and on the marked course and it resolves; swimming for it is the slow fail state.",
+     "cites": [
+      2,
+      3
+     ]
+    },
+    {
+     "text": "No choice in the strand can close it early, and failures restart the mission only.",
+     "cites": [
+      1,
+      8
+     ]
+    },
+    {
+     "text": "The trophy pops at the final mission's results screen.",
+     "cites": [
+      5,
+      10
+     ]
+    },
+    {
+     "text": "Boats you use here count toward the 100 discovered vehicles if they are new to you — check the app prompt as you board.",
+     "cites": [
+      6,
+      9
+     ]
+    }
+   ]
+  },
+  {
+   "id": 24,
+   "name": "The Lone Rider",
+   "description": "Complete the final mission for Billy.",
+   "grade": "bronze",
+   "hidden": true,
+   "kind": "side",
+   "stage": 6,
+   "count": null,
+   "count_label": null,
+   "missable_status": "none",
+   "confirm_status": "confirmed",
+   "disagree": false,
+   "sources": [
+    1,
+    2,
+    4,
+    5,
+    6,
+    8,
+    9,
+    10,
+    11,
+    12
+   ],
+   "guide": "Finish Billy's stranger strand — the biker chain that ends with a solo ride. Complete the whole chain; his final mission is a long point-to-point ride with company you did not ask for.",
+   "steps": [
+    {
+     "text": "Billy's strand starts at a roadhouse stranger marker; his jobs are bike-first, so keep a decent motorcycle garaged from early on.",
+     "cites": [
+      2,
+      4,
+      11,
+      12
+     ]
+    },
+    {
+     "text": "Progress the chain mission by mission — later steps unlock after story progress, so a missing marker usually means 'play on', not 'gone'.",
+     "cites": [
+      1,
+      8
+     ]
+    },
+    {
+     "text": "The final mission is the long ride the title names; the trophy needs its completion, not a clean or fast run.",
+     "cites": [
+      2,
+      5
+     ]
+    },
+    {
+     "text": "Stay on the bike through the ride's ambush beats — the sequence is built around riding, and on-foot detours drag it out.",
+     "cites": [
+      2,
+      9
+     ]
+    },
+    {
+     "text": "Billy's strand is one of the eight for Strangers & Freaks and counts toward 100%.",
+     "cites": [
+      1,
+      8
+     ]
+    },
+    {
+     "text": "Hidden on PSN until earned.",
+     "cites": [
+      5,
+      6
+     ]
+    },
+    {
+     "text": "Bikes used across the strand count toward vehicle discoveries if new — Billy's own loaner counts the first time you ride it.",
+     "cites": [
+      9,
+      10
+     ]
+    },
+    {
+     "text": "Choices in his missions feed the choices counter and cannot end the strand.",
+     "cites": [
+      4,
+      10
+     ]
+    },
+    {
+     "text": "Failing restarts the mission from its last checkpoint; strands are never lost.",
+     "cites": [
+      1,
+      8
+     ]
+    },
+    {
+     "text": "The trophy pops at the final mission's results screen.",
+     "cites": [
+      5,
+      10
+     ]
+    }
+   ]
+  },
+  {
+   "id": 25,
+   "name": "Strangers & Freaks",
+   "description": "Complete 8 mission strands for strangers across the state of Leonida.",
+   "grade": "silver",
+   "hidden": false,
+   "kind": "side",
+   "stage": 6,
+   "count": 8,
+   "count_label": "stranger strands",
+   "missable_status": "none",
+   "confirm_status": "confirmed",
+   "disagree": false,
+   "sources": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12
+   ],
+   "guide": "Complete eight full stranger strands — whole chains, not first meetings. Andy, Kenton, Billy, Randy, Tyrone and Bret have named finale trophies; any eight completed strands count here.",
+   "steps": [
+    {
+     "text": "A strand counts only when its entire chain is finished — meeting a stranger and doing one job moves nothing on this counter.",
+     "cites": [
+      1,
+      10,
+      11,
+      12
+     ]
+    },
+    {
+     "text": "The six named strands (Andy, Kenton, Billy, Randy, Tyrone, Bret's hunting line) each carry their own finale trophy, so finishing them is never wasted work.",
+     "cites": [
+      2,
+      5
+     ]
+    },
+    {
+     "text": "Two further strands without named trophies round out the eight — they appear as ordinary stranger markers across the map.",
+     "cites": [
+      2,
+      7
+     ]
+    },
+    {
+     "text": "Strands unlock in waves tied to story chapters; if you are short late-game, a new chapter or a sleep cycle usually surfaces the next marker.",
+     "cites": [
+      1,
+      4
+     ]
+    },
+    {
+     "text": "Track completions, not starts, in the counter widget here — the in-game list buries strand status inside the completion page.",
+     "cites": [
+      7,
+      9
+     ]
+    },
+    {
+     "text": "Every strand also pays into the 100% completion total, where the full stranger set is worth more than this trophy's eight.",
+     "cites": [
+      1,
+      8
+     ]
+    },
+    {
+     "text": "Strand finales are hidden trophies individually, but this silver itself is public on the list.",
+     "cites": [
+      5,
+      10
+     ]
+    },
+    {
+     "text": "No strand can be failed or refused permanently — ignoring a marker for weeks of in-game time changes nothing.",
+     "cites": [
+      1,
+      8
+     ]
+    },
+    {
+     "text": "If two strands offer missions in the same area, batch them: strand travel is the real time cost of this trophy.",
+     "cites": [
+      3,
+      9
+     ]
+    },
+    {
+     "text": "The trophy pops at the results screen of your eighth completed strand.",
+     "cites": [
+      5,
+      6
+     ]
+    },
+    {
+     "text": "Keep going past eight if you are chasing A Long Road — 100% wants every strand, not just the eight counted here.",
+     "cites": [
+      1,
+      2
+     ]
+    },
+    {
+     "text": "Strand markers thin out late in the game; a full-map sweep at different times of day is the reliable way to surface any chain you have not met yet.",
+     "cites": [
+      3,
+      8
+     ]
+    }
+   ]
+  },
+  {
+   "id": 26,
+   "name": "Supply & Demand",
+   "description": "Complete the final mission for Randy.",
+   "grade": "bronze",
+   "hidden": true,
+   "kind": "side",
+   "stage": 6,
+   "count": null,
+   "count_label": null,
+   "missable_status": "none",
+   "confirm_status": "confirmed",
+   "disagree": false,
+   "sources": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    8,
+    9,
+    10,
+    11,
+    12
+   ],
+   "guide": "Finish Randy's stranger strand — the supply-running chain that teaches the delivery economy. His finale mixes a timed route with a handover that must stay quiet.",
+   "steps": [
+    {
+     "text": "Randy's strand starts at a warehouse stranger marker once Chapter 2's economy opens; his chain is delivery work from end to end.",
+     "cites": [
+      2,
+      4,
+      11,
+      12
+     ]
+    },
+    {
+     "text": "Each job unlocks the next after a delay; use the gap to run other strands in the same district.",
+     "cites": [
+      1,
+      6
+     ]
+    },
+    {
+     "text": "The final mission is a timed supply run — learn the route on the earlier jobs, which reuse its first half.",
+     "cites": [
+      2,
+      9
+     ]
+    },
+    {
+     "text": "Keep the cargo intact: the finale's payout scales with condition, though the trophy only needs the finish.",
+     "cites": [
+      2,
+      3
+     ]
+    },
+    {
+     "text": "Randy's strand counts toward Strangers & Freaks and the 100% total.",
+     "cites": [
+      1,
+      8
+     ]
+    },
+    {
+     "text": "Hidden on PSN until earned.",
+     "cites": [
+      5,
+      6
+     ]
+    },
+    {
+     "text": "Deliveries in his chain move marked goods — laundering contacts met here stay useful for Dime on the Dollar.",
+     "cites": [
+      4,
+      10
+     ]
+    },
+    {
+     "text": "A failed run restarts the mission; the strand cannot be lost or locked.",
+     "cites": [
+      1,
+      8
+     ]
+    },
+    {
+     "text": "The trophy pops at the final mission's results screen.",
+     "cites": [
+      5,
+      10
+     ]
+    },
+    {
+     "text": "Vans and trucks driven for Randy count toward vehicle discoveries the first time you take each model.",
+     "cites": [
+      9,
+      10
+     ]
+    }
+   ]
+  },
+  {
+   "id": 27,
+   "name": "Spin On This!",
+   "description": "Complete the final mission for Tyrone.",
+   "grade": "bronze",
+   "hidden": true,
+   "kind": "side",
+   "stage": 6,
+   "count": null,
+   "count_label": null,
+   "missable_status": "none",
+   "confirm_status": "confirmed",
+   "disagree": false,
+   "sources": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12
+   ],
+   "guide": "Finish Tyrone's stranger strand — the DJ-and-nightlife chain that ends with a set that has to land. Complete his whole chain to the finale.",
+   "steps": [
+    {
+     "text": "Tyrone's strand starts at a club-district stranger marker; his jobs revolve around events, crowds and getting equipment where it needs to be.",
+     "cites": [
+      2,
+      7,
+      11,
+      12
+     ]
+    },
+    {
+     "text": "Work the chain in order — event missions unlock sequentially and some only trigger at night, so check the in-game clock if a marker is missing.",
+     "cites": [
+      1,
+      4
+     ]
+    },
+    {
+     "text": "The final mission is the big set: keep the event running through its scripted problems and the trophy follows at the results screen.",
+     "cites": [
+      2,
+      5
+     ]
+    },
+    {
+     "text": "Crowd sections are about positioning, not combat — follow the prompts and stay near the decks.",
+     "cites": [
+      2,
+      9
+     ]
+    },
+    {
+     "text": "Tyrone's strand counts toward the eight for Strangers & Freaks and toward 100%.",
+     "cites": [
+      1,
+      6
+     ]
+    },
+    {
+     "text": "Hidden on PSN until earned.",
+     "cites": [
+      5,
+      7
+     ]
+    },
+    {
+     "text": "Choices at his events feed the choices counter either way they land.",
+     "cites": [
+      4,
+      6
+     ]
+    },
+    {
+     "text": "Failures restart the current mission only; the strand is never lost.",
+     "cites": [
+      1,
+      8
+     ]
+    },
+    {
+     "text": "The trophy pops at the final mission's results screen.",
+     "cites": [
+      5,
+      10
+     ]
+    },
+    {
+     "text": "His district holds several WAiNK spots and cards — sweep them while you are in the area for his jobs.",
+     "cites": [
+      3,
+      9
+     ]
+    }
+   ]
+  },
+  {
+   "id": 28,
+   "name": "Positive Mental Attitude",
+   "description": "Meditate at every spot across Leonida.",
+   "grade": "bronze",
+   "hidden": false,
+   "kind": "collectibles",
+   "stage": 6,
+   "count": 18,
+   "count_label": "meditations",
+   "missable_status": "possibly",
+   "confirm_status": "confirmed",
+   "disagree": true,
+   "disagree_note": "Two disagreements live here, and both versions are shown. (1) THE COUNT: the trophy list and most guides say 18 meditation spots; the 100% completion checklist in two list sources counts only 15, apparently folding three rooftop spots into their districts. This tracker counts 18 — the number the trophy itself tracks. (2) THE BALCONY: PowerPyx and KeenGamer warn that one spot, on a Chapter 1 Ocean Beach balcony, may become unreachable when Chapter 1 ends, which would make this trophy missable. OutputLag and GTA Vibes report every spot still reachable after the story. The safe play costs two minutes: meditate on that balcony during Chapter 1, and the argument never matters.",
+   "sources": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    9,
+    11,
+    12
+   ],
+   "guide": "Meditate at every meditation spot in Leonida — 18 by the trophy's own count. This is the list's one possibly missable trophy: do the Chapter 1 balcony spot before the chapter ends, then sweep the rest at leisure.",
+   "steps": [
+    {
+     "text": "FIRST, in Chapter 1: meditate at the Ocean Beach balcony spot before finishing the chapter. Two guides say it may close afterwards; doing it now makes the disagreement irrelevant.",
+     "cites": [
+      1,
+      3,
+      12
+     ]
+    },
+    {
+     "text": "A meditation spot is a marked mat or cushion at a viewpoint; sit, complete the short breathing prompt, and the spot banks when you stand.",
+     "cites": [
+      2,
+      6
+     ]
+    },
+    {
+     "text": "The trophy tracks 18 spots — follow the count here, not the 100% checklist's 15; the disagreement note above explains the difference.",
+     "cites": [
+      1,
+      5,
+      11
+     ]
+    },
+    {
+     "text": "Spots spread across every region: beaches, rooftops, a causeway overlook, hilltops in the north counties and two in the Keys.",
+     "cites": [
+      3,
+      9
+     ]
+    },
+    {
+     "text": "Most spots are reachable from the moment their area opens; only the balcony spot carries any timing warning at all.",
+     "cites": [
+      2,
+      9
+     ]
+    },
+    {
+     "text": "One meditation also ticks the meditation type for Master of None — your very first spot does double duty.",
+     "cites": [
+      1,
+      6
+     ]
+    },
+    {
+     "text": "Spots do not appear on the world map until you are close; use the counter widget here and a collectible route rather than hunting blind.",
+     "cites": [
+      6,
+      9
+     ]
+    },
+    {
+     "text": "Rooftop spots need their building's stairwell or a helicopter; the three rooftops are the ones some checklists fold away — they still count for the trophy.",
+     "cites": [
+      3,
+      5
+     ]
+    },
+    {
+     "text": "Weather and time of day never block a spot; if the prompt does not appear, you are at the wrong cushion — the right one glows faintly at dusk.",
+     "cites": [
+      4,
+      9
+     ]
+    },
+    {
+     "text": "If you did miss the balcony in Chapter 1, do not restart on that basis alone: two sources report it reachable post-story, and the point is genuinely unsettled — finish the other 17 first.",
+     "cites": [
+      2,
+      9,
+      12
+     ]
+    },
+    {
+     "text": "The trophy pops as you complete the final spot's meditation, whichever spot that turns out to be.",
+     "cites": [
+      5,
+      6
+     ]
+    },
+    {
+     "text": "One last caution from the guides' comments: quitting mid-meditation does not bank the spot — sit through the full prompt every time.",
+     "cites": [
+      4,
+      5
+     ]
+    }
+   ]
+  },
+  {
+   "id": 29,
+   "name": "Fair Game",
+   "description": "Hunt a unique animal for Bret.",
+   "grade": "bronze",
+   "hidden": false,
+   "kind": "side",
+   "stage": 6,
+   "count": null,
+   "count_label": null,
+   "missable_status": "none",
+   "confirm_status": "confirmed",
+   "disagree": false,
+   "sources": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    11,
+    12
+   ],
+   "guide": "Hunt the unique animal Bret sends you after — a one-of-a-kind specimen in the north counties. It is the finale of his hunting line and unlocks after his ordinary hunts.",
+   "steps": [
+    {
+     "text": "Bret's hunting line starts at his camp stranger marker; complete his ordinary hunts first — the unique animal is his final request.",
+     "cites": [
+      2,
+      4,
+      12
+     ]
+    },
+    {
+     "text": "Hunting itself ticks the hunting type for Master of None on your very first trip with him.",
+     "cites": [
+      1,
+      6
+     ]
+    },
+    {
+     "text": "The unique animal spawns in a fixed territory in the north counties once the hunt is active; Bret marks the rough ground, not the exact spot.",
+     "cites": [
+      2,
+      9
+     ]
+    },
+    {
+     "text": "Track it by sign: prints, scat and disturbed brush form a trail the game highlights when you crouch and scan.",
+     "cites": [
+      4,
+      9
+     ]
+    },
+    {
+     "text": "Approach downwind and crouched — the specimen spooks at a sprint or a vehicle engine and will not respawn until you leave and return.",
+     "cites": [
+      2,
+      3
+     ]
+    },
+    {
+     "text": "One clean shot is the intended finish, but any kill counts; the trophy triggers on the harvest confirmation, not the shot itself.",
+     "cites": [
+      1,
+      5
+     ]
+    },
+    {
+     "text": "If the animal escapes the territory, the hunt resets — return to Bret's camp and the request re-offers itself.",
+     "cites": [
+      2,
+      8
+     ]
+    },
+    {
+     "text": "Bret's line counts as a stranger strand for the eight in Strangers & Freaks once his full chain is done.",
+     "cites": [
+      1,
+      6
+     ]
+    },
+    {
+     "text": "The trophy pops when the unique animal is harvested and confirmed.",
+     "cites": [
+      5,
+      9
+     ]
+    },
+    {
+     "text": "Pelts and parts from ordinary hunts sell for honest early money — small, but every sale moves Treat Yo Self's spending counterpart economy along.",
+     "cites": [
+      4,
+      7
+     ]
+    }
+   ]
+  },
+  {
+   "id": 30,
+   "name": "Don't Touch My Deck",
+   "description": "Complete 3 Collectible Card sets.",
+   "grade": "silver",
+   "hidden": false,
+   "kind": "collectibles",
+   "stage": 6,
+   "count": 3,
+   "count_label": "card sets",
+   "missable_status": "none",
+   "confirm_status": "confirmed",
+   "disagree": false,
+   "sources": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    9,
+    11,
+    12
+   ],
+   "guide": "Complete three full collectible card sets. Cards are scattered singly across Leonida; a set completes when its last card is picked up, so hunt by set, not by region.",
+   "steps": [
+    {
+     "text": "Cards are single pickups hidden on ledges, counters, benches and rooftops; each belongs to a themed set, and a set completes only when every card in it is found.",
+     "cites": [
+      3,
+      9,
+      11,
+      12
+     ]
+    },
+    {
+     "text": "Three sets is the trophy — not three cards. Pick one set and finish it before scattering attention across the others.",
+     "cites": [
+      1,
+      7,
+      11
+     ]
+    },
+    {
+     "text": "The smallest sets are the efficient targets: two of the themed sets run to single-digit card counts and can be swept in one route each.",
+     "cites": [
+      3,
+      9
+     ]
+    },
+    {
+     "text": "Cards glint at close range and show an interact prompt; they never despawn and none are inside missions, so the whole hunt is free-roam work.",
+     "cites": [
+      2,
+      6
+     ]
+    },
+    {
+     "text": "A helicopter turns rooftop cards from climbing puzzles into a single circuit — several sets lean on high places.",
+     "cites": [
+      3,
+      4
+     ]
+    },
+    {
+     "text": "Cards also feed the 100% collectibles share, so even cards in sets you are not finishing are banked progress.",
+     "cites": [
+      1,
+      6,
+      11
+     ]
+    },
+    {
+     "text": "Tick sets off in the counter widget here; the in-game menu tracks cards per set but hides which set is closest to done.",
+     "cites": [
+      7,
+      9
+     ]
+    },
+    {
+     "text": "If one card eludes you, check interiors: two sets hide cards inside enterable shops and the bowling alley, not on the street.",
+     "cites": [
+      3,
+      7
+     ]
+    },
+    {
+     "text": "There is no reward order to optimise — completion of any three sets pops the silver.",
+     "cites": [
+      1,
+      5
+     ]
+    },
+    {
+     "text": "The trophy pops on picking up the final card of your third completed set.",
+     "cites": [
+      5,
+      6
+     ]
+    },
+    {
+     "text": "Completionists: the remaining sets still count toward A Long Road's collectibles percentage after this trophy is done.",
+     "cites": [
+      1,
+      2
+     ]
+    }
+   ]
+  },
+  {
+   "id": 31,
+   "name": "You WAiNKer!",
+   "description": "WAiNK It at 100 locations.",
+   "grade": "silver",
+   "hidden": false,
+   "kind": "collectibles",
+   "stage": 6,
+   "count": 100,
+   "count_label": "WAiNK locations",
+   "missable_status": "none",
+   "confirm_status": "confirmed",
+   "disagree": true,
+   "disagree_note": "How many WAiNK locations exist? The trophy needs 100 and most guides map exactly 100. One mapper's route lists 96 confirmed spots plus 4 marked 'rumoured' — those 4 are real but sit inside interiors that only open after certain story beats, which is why early maps missed them. This tracker counts to the trophy's own 100.",
+   "sources": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    9,
+    11,
+    12
+   ],
+   "guide": "Use a WAiNK machine or point at 100 different locations across Leonida. It is a pure coverage grind: the locations are everywhere, and a route-based sweep finishes it far faster than random play.",
+   "steps": [
+    {
+     "text": "WAiNK points are marked service points — machines and kiosks in shops, arcades, piers, garages and public buildings; using one at a new location ticks the counter.",
+     "cites": [
+      3,
+      9,
+      12
+     ]
+    },
+    {
+     "text": "Each location counts once: reusing the same machine does nothing, so movement is the whole game.",
+     "cites": [
+      1,
+      6
+     ]
+    },
+    {
+     "text": "The trophy's target is 100 and the map holds exactly that by the guides' count — the four 'rumoured' spots in one map are inside story-gated interiors; see the disagreement note.",
+     "cites": [
+      3,
+      5,
+      11
+     ]
+    },
+    {
+     "text": "Work region by region with the counter widget here; Vice City's districts alone hold roughly a third of all locations.",
+     "cites": [
+      7,
+      9
+     ]
+    },
+    {
+     "text": "Pair the sweep with other errands — WAiNK points cluster where you already go: ranges, alleys, marinas, garages.",
+     "cites": [
+      2,
+      9
+     ]
+    },
+    {
+     "text": "Interiors that open late (post-story buildings) hold the last few locations for most players; if you stall at 96–99, those are the missing ones.",
+     "cites": [
+      3,
+      4
+     ]
+    },
+    {
+     "text": "Using a point costs nothing and takes seconds — the only investment is the travelling.",
+     "cites": [
+      1,
+      7
+     ]
+    },
+    {
+     "text": "Locations also appear in the collectibles share of 100%, so the sweep is never wasted motion.",
+     "cites": [
+      1,
+      7
+     ]
+    },
+    {
+     "text": "A helicopter or fast car loop of the coast clears the pier and boardwalk points in one pass.",
+     "cites": [
+      3,
+      9
+     ]
+    },
+    {
+     "text": "The trophy pops on using your 100th distinct location.",
+     "cites": [
+      5,
+      6,
+      11
+     ]
+    },
+    {
+     "text": "If the counter feels stuck, you are reusing a location — the widget here only rises on new ones, matching the game.",
+     "cites": [
+      6,
+      9
+     ]
+    }
+   ]
+  },
+  {
+   "id": 32,
+   "name": "One Last Thing",
+   "description": "Complete 50 Challenges.",
+   "grade": "bronze",
+   "hidden": false,
+   "kind": "activities",
+   "stage": 6,
+   "count": 50,
+   "count_label": "challenges",
+   "missable_status": "none",
+   "confirm_status": "confirmed",
+   "disagree": false,
+   "sources": [
+    1,
+    2,
+    3,
+    5,
+    6,
+    7,
+    9,
+    11,
+    12
+   ],
+   "guide": "Complete any 50 challenges — the umbrella counter that range lanes, stunt series, fishing contests, races and one-off world challenges all feed. Most players pass 50 without ever targeting it.",
+   "steps": [
+    {
+     "text": "Challenges are the game's scored side events: range lanes, stunt series, fishing challenges, time trials and similar marked events each count once when completed.",
+     "cites": [
+      1,
+      6,
+      11,
+      12
+     ]
+    },
+    {
+     "text": "Completion, not victory, is the bar for most challenges — a finished range lane at bronze still counts here even though The Shootist wants gold.",
+     "cites": [
+      2,
+      7
+     ]
+    },
+    {
+     "text": "Your Shooting Range work is the biggest single feeder: every lane you finish for The Shootist also lands here.",
+     "cites": [
+      1,
+      3
+     ]
+    },
+    {
+     "text": "Cal's fishing challenges count, as do stunt series events and the arcade's scored modes where offered.",
+     "cites": [
+      2,
+      9
+     ]
+    },
+    {
+     "text": "Because the feeders overlap with other trophies, leave this one alone until cleanup — then check the counter before grinding anything specific.",
+     "cites": [
+      1,
+      7
+     ]
+    },
+    {
+     "text": "If you do need a top-up, stunt series and time trials are the fastest completions per minute.",
+     "cites": [
+      3,
+      9
+     ]
+    },
+    {
+     "text": "Repeating the same challenge does not add to the counter; each distinct challenge counts once.",
+     "cites": [
+      2,
+      6
+     ]
+    },
+    {
+     "text": "The counter widget here tracks distinct completions — tick it when an event's results screen shows a finish, whatever the medal.",
+     "cites": [
+      6,
+      9
+     ]
+    },
+    {
+     "text": "Challenges also form part of the activities share of 100% completion.",
+     "cites": [
+      1,
+      6
+     ]
+    },
+    {
+     "text": "The trophy pops on your 50th distinct challenge completion.",
+     "cites": [
+      5,
+      6
+     ]
+    }
+   ]
+  },
+  {
+   "id": 33,
+   "name": "Hot Together",
+   "description": "Lose a 4 star Wanted Level with your partner and escape the heat.",
+   "grade": "bronze",
+   "hidden": true,
+   "kind": "crime",
+   "stage": 7,
+   "count": null,
+   "count_label": null,
+   "missable_status": "none",
+   "confirm_status": "confirmed",
+   "disagree": false,
+   "sources": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    9,
+    10,
+    11,
+    12
+   ],
+   "guide": "With your partner beside you, reach a four-star wanted level and then lose it completely. The partner must be with you for the escape — free roam, not a mission, is the place.",
+   "steps": [
+    {
+     "text": "Pick up your partner in free roam first — the trophy needs the pair together, and mission wanted levels do not count.",
+     "cites": [
+      2,
+      4,
+      12
+     ]
+    },
+    {
+     "text": "Raise four stars deliberately: a short spree against police or a loud robbery chain in a low-traffic area gets there in a minute or two.",
+     "cites": [
+      1,
+      10
+     ]
+    },
+    {
+     "text": "Once the fourth star lands, stop adding heat — the trophy is about the escape from four stars, not survival at five.",
+     "cites": [
+      2,
+      3
+     ]
+    },
+    {
+     "text": "Break line of sight and swap vehicles: ducking into an alley or garage and changing cars drops the search faster than pure speed.",
+     "cites": [
+      1,
+      9
+     ]
+    },
+    {
+     "text": "Stay out of the flashing search cones until the stars drain; your partner's presence is checked at the moment the level clears.",
+     "cites": [
+      2,
+      6
+     ]
+    },
+    {
+     "text": "Do not let your partner get arrested or left behind mid-escape — if they are separated, regroup before the stars finish draining.",
+     "cites": [
+      4,
+      10
+     ]
+    },
+    {
+     "text": "Tunnels, the causeway service roads and multi-storey car parks are the reliable escape terrain.",
+     "cites": [
+      3,
+      9
+     ]
+    },
+    {
+     "text": "This trophy is hidden on PSN until earned.",
+     "cites": [
+      5,
+      6
+     ]
+    },
+    {
+     "text": "If the level drops to three stars before fully clearing, that still counts — 'lose a 4 star level' means starting the escape at four and reaching zero.",
+     "cites": [
+      1,
+      4
+     ]
+    },
+    {
+     "text": "The trophy pops the moment the wanted level empties with your partner present.",
+     "cites": [
+      5,
+      10
+     ]
+    }
+   ]
+  },
+  {
+   "id": 34,
+   "name": "Retail Therapy",
+   "description": "Rob 3 shops back-to-back with your partner without losing your Wanted Level.",
+   "grade": "bronze",
+   "hidden": false,
+   "kind": "crime",
+   "stage": 7,
+   "count": null,
+   "count_label": null,
+   "missable_status": "none",
+   "confirm_status": "confirmed",
+   "disagree": false,
+   "sources": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    11,
+    12
+   ],
+   "guide": "With your partner, rob three shops in a row while the wanted level never fully clears between them. It is a route-planning trophy: pick three close shops, keep moving, never let the stars empty.",
+   "steps": [
+    {
+     "text": "Scout the route first: three rob-able shops within a short drive of each other — Vice City's shopping districts are the natural hunting ground.",
+     "cites": [
+      2,
+      9,
+      12
+     ]
+    },
+    {
+     "text": "Your partner must be with you for all three robberies; collect them before the first shop, not between shops.",
+     "cites": [
+      1,
+      4
+     ]
+    },
+    {
+     "text": "Rob shop one at gunpoint, take the till money, and leave while the wanted level is still active — if the stars clear, the chain resets.",
+     "cites": [
+      2,
+      6
+     ]
+    },
+    {
+     "text": "Drive to shop two with the heat on you; minor collisions are fine, but do not hide — hiding is how the level accidentally empties.",
+     "cites": [
+      1,
+      3
+     ]
+    },
+    {
+     "text": "Repeat at shop two, then shop three; the third till is the trigger, and the trophy pops as its robbery completes.",
+     "cites": [
+      2,
+      5
+     ]
+    },
+    {
+     "text": "You may escape fully after the third shop — the 'without losing' condition only binds between the robberies.",
+     "cites": [
+      1,
+      8
+     ]
+    },
+    {
+     "text": "A mask and a fast four-door make the chain comfortable; the car swap trick from Hot Together is for afterwards, not during.",
+     "cites": [
+      4,
+      9
+     ]
+    },
+    {
+     "text": "If a shop is closed or already robbed recently, substitute the next nearest — the chain counts robberies, not specific shops.",
+     "cites": [
+      2,
+      7
+     ]
+    },
+    {
+     "text": "Till money from the chain is ordinary cash — small, but it all passes through your hands toward the money totals.",
+     "cites": [
+      4,
+      6
+     ]
+    },
+    {
+     "text": "Failing means only a fresh chain: no lockout, no cooldown beyond shops restocking their tills over time.",
+     "cites": [
+      1,
+      8
+     ]
+    }
+   ]
+  },
+  {
+   "id": 35,
+   "name": "Whip It Good",
+   "description": "Discover 100 vehicles.",
+   "grade": "bronze",
+   "hidden": false,
+   "kind": "collectibles",
+   "stage": 7,
+   "count": 100,
+   "count_label": "vehicles",
+   "missable_status": "none",
+   "confirm_status": "confirmed",
+   "disagree": false,
+   "sources": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    9,
+    11,
+    12
+   ],
+   "guide": "Discover 100 different vehicles — cars, bikes, boats and aircraft each count the first time you take control of a model you have never driven.",
+   "steps": [
+    {
+     "text": "A vehicle is discovered the first time you enter and take control of that model; a small prompt confirms the discovery as it registers.",
+     "cites": [
+      2,
+      6,
+      11,
+      12
+     ]
+    },
+    {
+     "text": "Variety is everything: 100 means 100 different models, so the same sedan in ten colours counts once.",
+     "cites": [
+      1,
+      5,
+      11
+     ]
+    },
+    {
+     "text": "Boats, bikes, aircraft, service vehicles and mission loaners all count — Billy's loaner bike and Kenton's boats are free discoveries.",
+     "cites": [
+      2,
+      9
+     ]
+    },
+    {
+     "text": "Rich districts spawn the rare end of the catalogue; a slow cruise through the marina and the financial district adds models fast.",
+     "cites": [
+      3,
+      9
+     ]
+    },
+    {
+     "text": "Showrooms and garages cluster models together — walking a dealership row can bank several discoveries in minutes (and sets up Capital Offense).",
+     "cites": [
+      4,
+      9
+     ]
+    },
+    {
+     "text": "The counter widget here tracks your total; the game surfaces discoveries only as they happen, so the widget is the reliable tally.",
+     "cites": [
+      6,
+      9
+     ]
+    },
+    {
+     "text": "Emergency and gang vehicles count too — a police cruiser or a gang's signature car is a model like any other.",
+     "cites": [
+      1,
+      7
+     ]
+    },
+    {
+     "text": "Discoveries feed the collectibles share of 100% completion as well.",
+     "cites": [
+      1,
+      6
+     ]
+    },
+    {
+     "text": "By the cleanup stage most players sit at 70–85 without trying; the last stretch is a deliberate dealership-and-marina tour.",
+     "cites": [
+      2,
+      3
+     ]
+    },
+    {
+     "text": "The trophy pops as your 100th new model registers.",
+     "cites": [
+      5,
+      6
+     ]
+    }
+   ]
+  },
+  {
+   "id": 36,
+   "name": "Gunslinger",
+   "description": "Take down 5 enemies in a single use of Combat Focus.",
+   "grade": "bronze",
+   "hidden": false,
+   "kind": "crime",
+   "stage": 7,
+   "count": null,
+   "count_label": null,
+   "missable_status": "none",
+   "confirm_status": "confirmed",
+   "disagree": false,
+   "sources": [
+    1,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    11,
+    12
+   ],
+   "guide": "Drop five enemies during one activation of Combat Focus, the slow-motion targeting state. You need a clustered group and a full magazine — the courtyard in Operation Savage Glory is the scripted classroom.",
+   "steps": [
+    {
+     "text": "Combat Focus slows time while your aim stays fast; the trophy counts enemies taken down between one activation and its end.",
+     "cites": [
+      3,
+      6,
+      12
+     ]
+    },
+    {
+     "text": "Set the stage: a group of five or more enemies in one sightline, your Focus meter full, and a weapon with at least five rounds ready.",
+     "cites": [
+      1,
+      4
+     ]
+    },
+    {
+     "text": "The courtyard group in Operation Savage Glory is the intended classroom — five enemies, one courtyard, generous Focus duration.",
+     "cites": [
+      3,
+      9
+     ]
+    },
+    {
+     "text": "In free roam, gang operations and vault escapes offer the same clustering; a doorway chokepoint does the grouping for you.",
+     "cites": [
+      1,
+      7
+     ]
+    },
+    {
+     "text": "Headshots end targets in one round and keep the chain inside the meter — body shots risk running the clock out at four.",
+     "cites": [
+      3,
+      6
+     ]
+    },
+    {
+     "text": "Do not reload mid-activation if you can avoid it; the reload animation eats the meter you are racing.",
+     "cites": [
+      4,
+      9
+     ]
+    },
+    {
+     "text": "If the fifth enemy drops just after Focus ends, it does not count — the takedowns must land inside the window.",
+     "cites": [
+      3,
+      5
+     ]
+    },
+    {
+     "text": "Assists from your partner do not count toward your five; the takedowns must be yours.",
+     "cites": [
+      1,
+      7
+     ]
+    },
+    {
+     "text": "There is no cooldown on trying again beyond refilling the meter through ordinary combat.",
+     "cites": [
+      4,
+      8
+     ]
+    },
+    {
+     "text": "The trophy pops as the fifth takedown lands inside a single Focus use.",
+     "cites": [
+      5,
+      6
+     ]
+    }
+   ]
+  },
+  {
+   "id": 37,
+   "name": "Catch Me If You Can",
+   "description": "Make an unscheduled departure at VCIA.",
+   "grade": "bronze",
+   "hidden": true,
+   "kind": "crime",
+   "stage": 7,
+   "count": null,
+   "count_label": null,
+   "missable_status": "watch",
+   "confirm_status": "confirmed",
+   "disagree": false,
+   "sources": [
+    1,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    11,
+    12
+   ],
+   "guide": "Leave Vice City International Airport in an unscheduled way — take an aircraft out of VCIA without being on any flight plan. It is a watch item: easiest while the airport is fresh in your mind from the takedown mission.",
+   "steps": [
+    {
+     "text": "Go to VCIA in free roam after the airport has opened in the story; the takedown mission teaches the layout you are about to exploit.",
+     "cites": [
+      3,
+      7,
+      12
+     ]
+    },
+    {
+     "text": "Enter the airfield side: the service gates and perimeter roads used in VCIA Takedown remain the practical way in outside a mission.",
+     "cites": [
+      3,
+      6
+     ]
+    },
+    {
+     "text": "Find a usable aircraft on the apron — a light plane or helicopter parked for servicing; it must be one you can actually board and start.",
+     "cites": [
+      1,
+      7
+     ]
+    },
+    {
+     "text": "Take off from the taxiway or apron rather than a cleared runway slot — the departure must be unscheduled, which a runway departure still is if you were never cleared.",
+     "cites": [
+      3,
+      4
+     ]
+    },
+    {
+     "text": "The trophy registers as you leave the airport's airspace in the stolen aircraft; expect a wanted level for the theft, which you can lose afterwards at leisure.",
+     "cites": [
+      3,
+      5
+     ]
+    },
+    {
+     "text": "This is a watch trophy rather than a proven missable: the airport never closes, but the route in is easiest to remember straight after Chapter 4.",
+     "cites": [
+      1,
+      6
+     ]
+    },
+    {
+     "text": "The aircraft counts toward vehicle discoveries if the model is new to you — a small bonus on the same trip.",
+     "cites": [
+      6,
+      9
+     ]
+    },
+    {
+     "text": "If apron aircraft are absent, leave the area fully and return; parked planes respawn with the airfield's traffic cycle.",
+     "cites": [
+      3,
+      8
+     ]
+    },
+    {
+     "text": "Hidden on PSN until earned.",
+     "cites": [
+      5,
+      7
+     ]
+    },
+    {
+     "text": "The trophy pops as the departure registers, mid-flight.",
+     "cites": [
+      5,
+      6
+     ]
+    }
+   ]
+  },
+  {
+   "id": 38,
+   "name": "Challenging Tank",
+   "description": "Kinda hot in these Rhinos.",
+   "grade": "bronze",
+   "hidden": true,
+   "kind": "crime",
+   "stage": 7,
+   "count": null,
+   "count_label": null,
+   "missable_status": "none",
+   "confirm_status": "unconfirmed",
+   "disagree": false,
+   "sources": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12
+   ],
+   "guide": "An unconfirmed one: the description jokes about Rhinos — the game's tanks. The best current reading is that it wants you to survive or escape a military response involving a Rhino, or to take one for a drive; no guide has settled it yet.",
+   "steps": [
+    {
+     "text": "Start from what is certain: the official description is a joke about heat inside Rhino tanks, and the trophy is hidden on PSN — the trigger is deliberately not spelled out.",
+     "cites": [
+      5,
+      10,
+      11,
+      12
+     ]
+    },
+    {
+     "text": "Rhinos appear with the military response at the highest wanted levels and at the army base; both are post-story playgrounds.",
+     "cites": [
+      5,
+      6
+     ]
+    },
+    {
+     "text": "Working theory one: steal a Rhino and drive it — entering a tank is a vehicle discovery too, and several hidden trophies in this list are simple 'do the thing once' triggers.",
+     "cites": [
+      9,
+      10
+     ]
+    },
+    {
+     "text": "Working theory two: survive a set time at maximum wanted with a Rhino actively engaging you, then escape — 'kinda hot' reads like a heat joke in both senses.",
+     "cites": [
+      4,
+      6
+     ]
+    },
+    {
+     "text": "Working theory three: destroy a Rhino — the army's hardware is not invulnerable, and a sticky-bomb ambush from cover is the practical method if you test this one.",
+     "cites": [
+      6,
+      7
+     ]
+    },
+    {
+     "text": "Try the theories in cheap order: drive one first, then survive-and-escape, then destruction — each attempt costs only a wanted level's worth of time.",
+     "cites": [
+      9,
+      10
+     ]
+    },
+    {
+     "text": "Save before experimenting at the base; the military response is the most lethal in the game and deaths reset your setup, not the trophy.",
+     "cites": [
+      5,
+      8
+     ]
+    },
+    {
+     "text": "Because this is unconfirmed, treat any single video or post claiming certainty with suspicion until a list source corroborates it.",
+     "cites": [
+      6,
+      10
+     ]
+    },
+    {
+     "text": "The counter in this guide cannot track this one — it will simply pop when the right thing happens, as hidden trophies do.",
+     "cites": [
+      5,
+      6
+     ]
+    },
+    {
+     "text": "When a confirmed method emerges, it will almost certainly be a small twist on one of the three theories above — the description leaves little else to work with.",
+     "cites": [
+      6,
+      10
+     ]
+    }
+   ]
+  },
+  {
+   "id": 39,
+   "name": "Sneakthief",
+   "description": "Rob a jewelry store without being detected.",
+   "grade": "bronze",
+   "hidden": true,
+   "kind": "crime",
+   "stage": 7,
+   "count": null,
+   "count_label": null,
+   "missable_status": "none",
+   "confirm_status": "confirmed",
+   "disagree": false,
+   "sources": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    8,
+    9,
+    10,
+    11,
+    12
+   ],
+   "guide": "Rob a jewelry store clean — in, valuables taken, out, with no detection and no wanted level. It is a stealth puzzle: enter from the back, control the room quietly, leave before anyone calls it in.",
+   "steps": [
+    {
+     "text": "Pick your store: jewelry stores in the shopping districts have rear entrances; the back door is the whole trick — the front is glass, staffed and alarmed.",
+     "cites": [
+      2,
+      4,
+      12
+     ]
+    },
+    {
+     "text": "Go at night or early morning when staffing is thinnest, and park your escape car at the rear before you go in.",
+     "cites": [
+      1,
+      9
+     ]
+    },
+    {
+     "text": "Detection means a witness completing a call or an alarm tripping — being glimpsed briefly while you control the room is survivable if you stop the call.",
+     "cites": [
+      2,
+      6
+     ]
+    },
+    {
+     "text": "Inside, keep the staff covered and move fast between cases; the valuables grab is quick, and lingering is what gets you seen.",
+     "cites": [
+      1,
+      4
+     ]
+    },
+    {
+     "text": "Do not fire a shot — a gunshot is detection by itself, however empty the room seems.",
+     "cites": [
+      2,
+      3
+     ]
+    },
+    {
+     "text": "Leave by the rear, drive calmly for the first two blocks, and only speed up once you are clear of the district.",
+     "cites": [
+      1,
+      9
+     ]
+    },
+    {
+     "text": "If you are detected, simply leave and reset: stores restock and the attempt can be repeated the next in-game day.",
+     "cites": [
+      2,
+      8
+     ]
+    },
+    {
+     "text": "Your partner stays in the car for this one — a second person inside is a second detection risk, and the trophy does not ask for company.",
+     "cites": [
+      4,
+      6
+     ]
+    },
+    {
+     "text": "Hidden on PSN until earned.",
+     "cites": [
+      5,
+      6
+     ]
+    },
+    {
+     "text": "The trophy pops as you clear the area with the take and no wanted level ever raised.",
+     "cites": [
+      5,
+      10
+     ]
+    }
+   ]
+  },
+  {
+   "id": 40,
+   "name": "Maximum Withdrawal",
+   "description": "Rob 5 Bank Vaults and escape.",
+   "grade": "silver",
+   "hidden": false,
+   "kind": "crime",
+   "stage": 7,
+   "count": 5,
+   "count_label": "bank vaults",
+   "missable_status": "none",
+   "confirm_status": "confirmed",
+   "disagree": false,
+   "sources": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    11,
+    12
+   ],
+   "guide": "Rob five bank vaults in free roam and escape after each. The Cartel Heist taught the drill-and-bag loop; this is that loop as a repeatable score, with the escape counting as much as the robbery.",
+   "steps": [
+    {
+     "text": "Bank vaults are free-roam scores at marked bank branches; each needs its vault drilled or blown, bags filled, and a completed escape to count.",
+     "cites": [
+      1,
+      7,
+      12
+     ]
+    },
+    {
+     "text": "The Cartel Heist is the tutorial: same vault drill, same bagging, same four-star exit — if you finished the story, you know this loop.",
+     "cites": [
+      2,
+      7
+     ]
+    },
+    {
+     "text": "An escape means the wanted level fully cleared after the robbery — dying or being arrested with the take voids that vault's attempt.",
+     "cites": [
+      1,
+      8
+     ]
+    },
+    {
+     "text": "Stage the escape car before entering, engine-reachable from the bank's rear; the first thirty seconds decide most escapes.",
+     "cites": [
+      3,
+      9
+     ]
+    },
+    {
+     "text": "Vault payouts are marked bills — launder them afterwards and the same money feeds Dime on the Dollar's total.",
+     "cites": [
+      1,
+      7
+     ]
+    },
+    {
+     "text": "Branches reset after in-game days, but five different branches exist — vary them rather than waiting on one.",
+     "cites": [
+      2,
+      8
+     ]
+    },
+    {
+     "text": "Bring your partner: a second gun halves the lobby-control problem and the bagging time.",
+     "cites": [
+      2,
+      4
+     ]
+    },
+    {
+     "text": "Tick each escaped vault in the counter widget here — the game tracks the total silently.",
+     "cites": [
+      6,
+      9
+     ]
+    },
+    {
+     "text": "Armour and a stocked rifle matter more than a supercar; the fight at the door is the hard part, not the driving.",
+     "cites": [
+      3,
+      7
+     ]
+    },
+    {
+     "text": "The trophy pops on clearing the wanted level after your fifth vault.",
+     "cites": [
+      5,
+      6,
+      11
+     ]
+    },
+    {
+     "text": "Vaults remain repeatable income after the trophy — the best late-game marked-bill source for the laundering total.",
+     "cites": [
+      1,
+      2
+     ]
+    }
+   ]
+  },
+  {
+   "id": 41,
+   "name": "A Classic Blitz Play",
+   "description": "Rob an Armored Truck and escape.",
+   "grade": "bronze",
+   "hidden": false,
+   "kind": "crime",
+   "stage": 7,
+   "count": null,
+   "count_label": null,
+   "missable_status": "none",
+   "confirm_status": "confirmed",
+   "disagree": false,
+   "sources": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12
+   ],
+   "guide": "Rob one armoured truck and escape. Trucks run marked routes in free roam; stop one, crack the rear doors, take the cash, and lose the short wanted level that follows.",
+   "steps": [
+    {
+     "text": "Armoured trucks appear on set free-roam routes, usually between banks and depots; their icon and boxy profile make them easy to spot in traffic.",
+     "cites": [
+      2,
+      4,
+      12
+     ]
+    },
+    {
+     "text": "Stop the truck by blocking it with a heavy vehicle rather than shooting it up — a wrecked truck can destroy the take.",
+     "cites": [
+      1,
+      6
+     ]
+    },
+    {
+     "text": "The rear doors need explosives or sustained damage; one sticky charge placed on the doors is the standard opener.",
+     "cites": [
+      2,
+      3
+     ]
+    },
+    {
+     "text": "Grab the cash cases quickly — the escort response arrives fast, and the wanted level starts the moment the doors open.",
+     "cites": [
+      1,
+      6
+     ]
+    },
+    {
+     "text": "Escape means fully clearing the wanted level with the money kept; the level is short (two to three stars) if you move immediately.",
+     "cites": [
+      2,
+      5
+     ]
+    },
+    {
+     "text": "A motorcycle is the cleanest getaway for this one: filter through traffic while the response is still arriving.",
+     "cites": [
+      4,
+      9
+     ]
+    },
+    {
+     "text": "The cash is ordinary unmarked money — it spends and banks normally, unlike vault marked bills.",
+     "cites": [
+      1,
+      7
+     ]
+    },
+    {
+     "text": "If a truck despawns mid-chase, another route spawns within the hour; trucks are a renewable world event.",
+     "cites": [
+      2,
+      8
+     ]
+    },
+    {
+     "text": "Your partner is optional here; solo is faster to set up and the trophy asks for no company.",
+     "cites": [
+      4,
+      6
+     ]
+    },
+    {
+     "text": "The trophy pops when the wanted level clears after a successful truck robbery.",
+     "cites": [
+      5,
+      10
+     ]
+    }
+   ]
+  },
+  {
+   "id": 42,
+   "name": "The Goodtime State",
+   "description": "Explore all of Leonida.",
+   "grade": "bronze",
+   "hidden": false,
+   "kind": "collectibles",
+   "stage": 7,
+   "count": 52,
+   "count_label": "areas of Leonida",
+   "missable_status": "none",
+   "confirm_status": "confirmed",
+   "disagree": true,
+   "disagree_note": "How many areas make 'all of Leonida'? The trophy's tracking and most guides work to 52 named areas. One list counts 49, treating three island settlements in the Keys as part of their neighbours. This tracker counts 52 — if your map shows every named area visited and the trophy is quiet, the three Keys settlements are the usual gap.",
+   "sources": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    9,
+    11,
+    12
+   ],
+   "guide": "Visit every named area of Leonida — 52 by the trophy's count. Story progress covers most of the map; the tail is the Keys settlements and the rural north, best swept in one deliberate tour.",
+   "steps": [
+    {
+     "text": "An area registers when you enter it properly — the area name banner appears on screen as the discovery lands.",
+     "cites": [
+      2,
+      6,
+      12
+     ]
+    },
+    {
+     "text": "The story campaign tours most districts for you; by the finale, the typical gap list is islands, rural settlements and the far north.",
+     "cites": [
+      1,
+      9
+     ]
+    },
+    {
+     "text": "Count to 52 here, not 49 — the disagreement note explains the three Keys settlements that one list folds into their neighbours.",
+     "cites": [
+      5,
+      6
+     ]
+    },
+    {
+     "text": "Fly the coast in a helicopter for the sweep: low and slow over each settlement triggers its banner without landing.",
+     "cites": [
+      3,
+      9
+     ]
+    },
+    {
+     "text": "The Keys causeway run banks a chain of small areas in one drive — and doubles as stunt and meditation country on the way.",
+     "cites": [
+      2,
+      9
+     ]
+    },
+    {
+     "text": "Interior-heavy districts (the airport, the port) count by their grounds — you do not need to enter buildings.",
+     "cites": [
+      1,
+      7
+     ]
+    },
+    {
+     "text": "Tick areas off in the counter widget as their banners appear; the map's fog clearing is a rough guide but not a precise tally.",
+     "cites": [
+      6,
+      9
+     ]
+    },
+    {
+     "text": "Exploration also feeds the 100% map share, so the sweep is never wasted.",
+     "cites": [
+      1,
+      6
+     ]
+    },
+    {
+     "text": "If one area refuses to trigger, cross its centre on foot — a few banners are pedestrian-triggered at landmarks rather than road-triggered.",
+     "cites": [
+      4,
+      9
+     ]
+    },
+    {
+     "text": "The trophy pops as the final area's banner appears.",
+     "cites": [
+      5,
+      6
+     ]
+    }
+   ]
+  },
+  {
+   "id": 43,
+   "name": "Pest Control",
+   "description": "Rob an Illegal Operation belonging to each gang.",
+   "grade": "bronze",
+   "hidden": false,
+   "kind": "crime",
+   "stage": 7,
+   "count": 9,
+   "count_label": "gangs",
+   "missable_status": "none",
+   "confirm_status": "confirmed",
+   "disagree": false,
+   "sources": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    11,
+    12
+   ],
+   "guide": "Rob one illegal operation run by each of the nine gangs — a grow house, a chop shop, a cash depot per gang. One robbery per gang; the take is marked money, so it feeds the laundering total too.",
+   "steps": [
+    {
+     "text": "Each gang runs illegal operations in its territory — a marked site with guards, a cash room and a short defence when you hit it.",
+     "cites": [
+      2,
+      7,
+      12
+     ]
+    },
+    {
+     "text": "One successful robbery per gang is the requirement; there are nine gangs, each holding distinct territory on the map.",
+     "cites": [
+      1,
+      8
+     ]
+    },
+    {
+     "text": "A robbery counts when you take the operation's cash and leave the site — you do not need to clear every guard.",
+     "cites": [
+      2,
+      3
+     ]
+    },
+    {
+     "text": "Scout in daylight, strike at night: site layouts are easier to learn on a quiet drive-by than mid-firefight.",
+     "cites": [
+      3,
+      9
+     ]
+    },
+    {
+     "text": "The cash is marked — launder it and this trophy's work also moves Dime on the Dollar.",
+     "cites": [
+      1,
+      6
+     ]
+    },
+    {
+     "text": "Gang retaliation follows each hit; finish the escape before starting the next gang's operation or the heat stacks.",
+     "cites": [
+      2,
+      4
+     ]
+    },
+    {
+     "text": "Tick gangs off in the counter widget here — operations look similar across gangs and it is easy to double-hit one and miss another.",
+     "cites": [
+      6,
+      9
+     ]
+    },
+    {
+     "text": "Two gangs only operate in areas opened late in the story, which is why this sits in the free-roam stage of the roadmap.",
+     "cites": [
+      1,
+      8
+     ]
+    },
+    {
+     "text": "Operations restock over in-game days, so a missed gang can be retried — nothing here is one-shot.",
+     "cites": [
+      2,
+      7
+     ]
+    },
+    {
+     "text": "The trophy pops as the ninth gang's operation is robbed and left.",
+     "cites": [
+      5,
+      6
+     ]
+    }
+   ]
+  },
+  {
+   "id": 44,
+   "name": "In The Beginning…",
+   "description": "Enjoy a cocktail with a view on Ocean Beach.",
+   "grade": "bronze",
+   "hidden": true,
+   "kind": "world",
+   "stage": 7,
+   "count": null,
+   "count_label": null,
+   "missable_status": "watch",
+   "confirm_status": "confirmed",
+   "disagree": false,
+   "sources": [
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    9,
+    10,
+    11,
+    12
+   ],
+   "guide": "Have a cocktail at the Ocean Beach spot with the view — a quiet nod to a famous opening scene. It is a watch item only because the spot sits in Chapter 1's backyard; it stays available, but do it early and forget it.",
+   "steps": [
+    {
+     "text": "Head to the Ocean Beach hotel strip: the spot is a specific rooftop/beach-bar terrace on the ocean side, marked by its view over the beach.",
+     "cites": [
+      3,
+      9,
+      12
+     ]
+    },
+    {
+     "text": "Order the cocktail at the bar and take the marked seat — the trophy is about the moment, not the drink menu.",
+     "cites": [
+      2,
+      9
+     ]
+    },
+    {
+     "text": "Let the short scene play out fully; standing up early can interrupt the trigger before it registers.",
+     "cites": [
+      2,
+      6
+     ]
+    },
+    {
+     "text": "The same balcony area hosts a meditation spot — if you are in Chapter 1, do both in one visit and close out the missable risk at the same time.",
+     "cites": [
+      3,
+      9
+     ]
+    },
+    {
+     "text": "It is listed as watch, not missable: guides confirm the bar and terrace remain open after the story — the warning is about convenience, not loss.",
+     "cites": [
+      2,
+      6
+     ]
+    },
+    {
+     "text": "The trophy is hidden on PSN until earned.",
+     "cites": [
+      5,
+      6
+     ]
+    },
+    {
+     "text": "Any time of day works, though the view the description means is the daytime ocean — if nothing triggers at night, return at noon.",
+     "cites": [
+      3,
+      4
+     ]
+    },
+    {
+     "text": "The drink costs a few dollars, which quietly counts toward your spending total.",
+     "cites": [
+      2,
+      7
+     ]
+    },
+    {
+     "text": "If the interact prompt is missing, you are at the wrong terrace — there are several bars on the strip and only one has the marked seat.",
+     "cites": [
+      3,
+      9
+     ]
+    },
+    {
+     "text": "The trophy pops as the cocktail moment completes.",
+     "cites": [
+      5,
+      10
+     ]
+    }
+   ]
+  },
+  {
+   "id": 45,
+   "name": "Capital Offense",
+   "description": "Smash your way out of a vehicle showroom in classic style.",
+   "grade": "bronze",
+   "hidden": true,
+   "kind": "crime",
+   "stage": 7,
+   "count": null,
+   "count_label": null,
+   "missable_status": "none",
+   "confirm_status": "single-source",
+   "disagree": false,
+   "sources": [
+    3,
+    4,
+    5,
+    6,
+    9,
+    10,
+    11,
+    12
+   ],
+   "guide": "Drive a car out through a vehicle showroom's glass front — steal from inside the showroom and exit through the window, not the door. One source covers the exact trigger, so this follows that account.",
+   "steps": [
+    {
+     "text": "Pick a showroom with a street-facing glass front and cars on the floor — the premium dealership on the Vice City strip is the one the single detailed account uses.",
+     "cites": [
+      3,
+      9,
+      12
+     ]
+    },
+    {
+     "text": "Enter on foot during opening hours; the showroom cars are enterable, and getting in one starts the clock on staff reaction.",
+     "cites": [
+      3,
+      9
+     ]
+    },
+    {
+     "text": "Drive out through the glass frontage — the smash through the window is the trophy's trigger, not the theft itself.",
+     "cites": [
+      3,
+      6
+     ]
+    },
+    {
+     "text": "Using the door or an open service exit does not count, however clean the getaway; it has to be through the glass, 'in classic style'.",
+     "cites": [
+      3,
+      9
+     ]
+    },
+    {
+     "text": "Expect an instant wanted level; the trophy registers at the smash, so the escape afterwards is just tidiness.",
+     "cites": [
+      3,
+      5,
+      12
+     ]
+    },
+    {
+     "text": "The showroom car counts toward vehicle discoveries if the model is new to you.",
+     "cites": [
+      6,
+      9
+     ]
+    },
+    {
+     "text": "Hidden on PSN until earned.",
+     "cites": [
+      5,
+      9
+     ]
+    },
+    {
+     "text": "If the glass does not break, you need more speed on the run-up — reverse to the showroom's rear wall and commit to the line.",
+     "cites": [
+      3,
+      4
+     ]
+    },
+    {
+     "text": "Because coverage is single-source, if another showroom's layout differs, any glass-fronted dealership should satisfy the same trigger.",
+     "cites": [
+      3,
+      10
+     ]
+    },
+    {
+     "text": "The trophy pops at the moment the car breaks through the glass.",
+     "cites": [
+      5,
+      9
+     ]
+    }
+   ]
+  },
+  {
+   "id": 46,
+   "name": "Let’s Go Bowling",
+   "description": "Follow-through at the Kolt & Associates' bowling alley.",
+   "grade": "bronze",
+   "hidden": false,
+   "kind": "activities",
+   "stage": 6,
+   "count": null,
+   "count_label": null,
+   "missable_status": "none",
+   "confirm_status": "confirmed",
+   "disagree": false,
+   "sources": [
+    2,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    11,
+    12
+   ],
+   "guide": "Bowl at the Kolt & Associates alley with a proper follow-through — the alley's own little ritual shot. Play a game at the alley and finish your throws with the follow-through motion the description hints at.",
+   "steps": [
+    {
+     "text": "The alley is Kolt & Associates' — a single named location; bowling anywhere else does not apply to this trophy.",
+     "cites": [
+      2,
+      7,
+      11,
+      12
+     ]
+    },
+    {
+     "text": "Start a game at the counter; a full game is ten frames and also ticks the bowling type for Master of None.",
+     "cites": [
+      2,
+      6
+     ]
+    },
+    {
+     "text": "The 'follow-through' is the bowler's finishing pose: hold your throw's follow-through input as the ball releases rather than tapping and dropping the motion.",
+     "cites": [
+      4,
+      7
+     ]
+    },
+    {
+     "text": "Do it on every throw of one game — the trophy reads as a style requirement across the game, not a single lucky frame.",
+     "cites": [
+      4,
+      6
+     ]
+    },
+    {
+     "text": "Score does not matter: strikes, spares and gutter balls all count the same while the follow-through is held.",
+     "cites": [
+      2,
+      5
+     ]
+    },
+    {
+     "text": "The alley also holds arcade cabinets — Stick Fiddler can be finished in the same visit.",
+     "cites": [
+      2,
+      7
+     ]
+    },
+    {
+     "text": "Lane fees are small and count toward the spending total like everything else you buy.",
+     "cites": [
+      4,
+      6
+     ]
+    },
+    {
+     "text": "If the trophy does not pop after one full game, the follow-through timing is the variable: hold it from release until the ball passes the arrows.",
+     "cites": [
+      4,
+      9
+     ]
+    },
+    {
+     "text": "There is no opponent requirement — a solo game at the alley satisfies it.",
+     "cites": [
+      2,
+      8
+     ]
+    },
+    {
+     "text": "The trophy pops at the end of the qualifying game.",
+     "cites": [
+      5,
+      6
+     ]
+    }
+   ]
+  },
+  {
+   "id": 47,
+   "name": "Personal Best",
+   "description": "A partnership with mass appeal.",
+   "grade": "bronze",
+   "hidden": true,
+   "kind": "world",
+   "stage": 7,
+   "count": null,
+   "count_label": null,
+   "missable_status": "none",
+   "confirm_status": "unconfirmed",
+   "disagree": false,
+   "sources": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12
+   ],
+   "guide": "Unconfirmed. The description is a pun — a partnership (the two leads) with 'mass appeal'. The best current readings involve the pair's public profile: reaching a fame or followers milestone together, or completing a partner activity streak. No guide has settled it.",
+   "steps": [
+    {
+     "text": "What is certain: the trophy is hidden, its description puns on the partnership of the two leads, and 'mass appeal' points at audience or fame rather than money or crime.",
+     "cites": [
+      5,
+      10,
+      11,
+      12
+     ]
+    },
+    {
+     "text": "Working theory one: the in-world social following — the pair's antics build a follower count, and a milestone total is the natural 'mass appeal' trigger.",
+     "cites": [
+      5,
+      6
+     ]
+    },
+    {
+     "text": "Public stunts raise that profile fastest in the theory: televised chases, the Headliners event, and viral world moments are the levers players report moving it.",
+     "cites": [
+      9,
+      10
+     ]
+    },
+    {
+     "text": "Working theory two: a partner-activity streak — a set number of activities completed together as a pair, which the game tracks quietly behind the activities page.",
+     "cites": [
+      4,
+      6
+     ]
+    },
+    {
+     "text": "Working theory three: a joint photo or publicity moment at a landmark — several hidden trophies in this list are single staged moments (the cocktail, the showroom), and this may be another.",
+     "cites": [
+      6,
+      7
+     ]
+    },
+    {
+     "text": "Cheap experiments first: keep the pair together in free roam, do activities as a duo, and take the landmark photo stops the game suggests — all cost minutes, not hours.",
+     "cites": [
+      9,
+      10
+     ]
+    },
+    {
+     "text": "If it pops during ordinary co-op play, note what you were doing: community confirmation is exactly how trophies like this get solved, and list sources are watching for it.",
+     "cites": [
+      6,
+      10
+     ]
+    },
+    {
+     "text": "Do not grind this one early — unconfirmed trophies have a habit of resolving to something the story hands you anyway.",
+     "cites": [
+      5,
+      6
+     ]
+    },
+    {
+     "text": "Nothing about the theories can be missed: fame, streaks and landmarks all remain available in free roam.",
+     "cites": [
+      6,
+      8
+     ]
+    },
+    {
+     "text": "Until a method is corroborated by a second source, this entry will keep its unconfirmed flag — the honest state of knowledge today.",
+     "cites": [
+      6,
+      10
+     ]
+    }
+   ]
+  },
+  {
+   "id": 48,
+   "name": "Actions Speak Louder",
+   "description": "Choices made (for better or worse).",
+   "grade": "bronze",
+   "hidden": true,
+   "kind": "world",
+   "stage": 7,
+   "count": 500,
+   "count_label": "choices",
+   "missable_status": "none",
+   "confirm_status": "confirmed",
+   "disagree": true,
+   "disagree_note": "Is there really a 500-choice counter? The list sources report that PSN tracks choices made to 500, and the starter guide in the kit says the same. One 100% checklist omits any choices category at all, treating choices as uncounted story flavour. This tracker follows the list sources: choices are counted, and 500 is the line — if yours pops earlier, the checklist's reading was right and no one loses anything.",
+   "sources": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12
+   ],
+   "guide": "Make choices — 500 of them by the tracked count. Every dialogue pick, approach selection and free-roam decision the game logs adds up; it is a play-the-game trophy that only needs you to keep choosing rather than skipping.",
+   "steps": [
+    {
+     "text": "A 'choice' is any logged decision: dialogue answers, mission approach picks, sparing or fighting, buying or walking away — the game counts them quietly in the background.",
+     "cites": [
+      4,
+      6,
+      12
+     ]
+    },
+    {
+     "text": "The tracked line is 500 per the list sources; the disagreement note covers the one checklist that doubts the counter exists.",
+     "cites": [
+      5,
+      10
+     ]
+    },
+    {
+     "text": "Story missions are dense with choices — a full campaign playthrough banks a large share without any farming.",
+     "cites": [
+      4,
+      6
+     ]
+    },
+    {
+     "text": "Stranger strands and side content add dozens more; doing all strands for the other trophies moves this counter substantially.",
+     "cites": [
+      4,
+      7
+     ]
+    },
+    {
+     "text": "Free-roam micro-choices count too: helping or robbing, fleeing or fighting, tipping or not — varied play fills the tail naturally.",
+     "cites": [
+      6,
+      9
+     ]
+    },
+    {
+     "text": "There is no morality tracking: 'for better or worse' is literal — either side of any choice counts the same.",
+     "cites": [
+      4,
+      5
+     ]
+    },
+    {
+     "text": "Skipping cutscenes may skip their embedded choices; if you are chasing the counter, let scenes play.",
+     "cites": [
+      4,
+      8
+     ]
+    },
+    {
+     "text": "The counter widget here tracks to 500 — tick it in rough batches as you play rather than counting individual picks.",
+     "cites": [
+      6,
+      10
+     ]
+    },
+    {
+     "text": "Hidden on PSN until earned, despite being one of the most passive trophies on the list.",
+     "cites": [
+      5,
+      6
+     ]
+    },
+    {
+     "text": "The trophy pops at the 500th logged choice — usually mid-mission, mid-sentence, exactly as it should.",
+     "cites": [
+      5,
+      6
+     ]
+    }
+   ]
+  },
+  {
+   "id": 49,
+   "name": "Bad Luck, I Guess",
+   "description": "Second time's the charm.",
+   "grade": "bronze",
+   "hidden": true,
+   "kind": "world",
+   "stage": 7,
+   "count": null,
+   "count_label": null,
+   "missable_status": "none",
+   "confirm_status": "single-source",
+   "disagree": false,
+   "sources": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12
+   ],
+   "guide": "Fail at something, then succeed at the same thing on the retry — the single detailed account says the trigger is failing a mission or challenge and passing it on the immediate second attempt. Deliberately easy to arrange.",
+   "steps": [
+    {
+     "text": "The one detailed account: fail a mission, challenge or activity, then complete that same one on your very next attempt — 'second time's the charm' is the whole mechanic.",
+     "cites": [
+      4,
+      6,
+      12
+     ]
+    },
+    {
+     "text": "Arrange it cheaply: pick a short challenge (a range lane or a time trial), fail it on purpose, then play it properly straight away.",
+     "cites": [
+      4,
+      6
+     ]
+    },
+    {
+     "text": "The retry must be the immediate next attempt at the same event — wandering off to other content between fail and success may break the pairing.",
+     "cites": [
+      4,
+      9
+     ]
+    },
+    {
+     "text": "A mission fail works too, but a thirty-second challenge is the same trigger with none of the travel.",
+     "cites": [
+      4,
+      7
+     ]
+    },
+    {
+     "text": "Dying in free roam does not seem to count as the 'fail' — the account specifies a failed event with a retry prompt.",
+     "cites": [
+      4,
+      6
+     ]
+    },
+    {
+     "text": "Hidden on PSN until earned.",
+     "cites": [
+      5,
+      6
+     ]
+    },
+    {
+     "text": "Most players will earn this accidentally long before reading this guide — natural fails followed by passes are constant in a first playthrough.",
+     "cites": [
+      4,
+      8
+     ]
+    },
+    {
+     "text": "If a deliberate fail-then-pass does not pop it, try the pattern on a story mission checkpoint instead — the account's examples were challenge-based, but the trigger may be broader.",
+     "cites": [
+      4,
+      10
+     ]
+    },
+    {
+     "text": "Because coverage is single-source, hold the method loosely: the description and the account agree, but no second guide has confirmed it yet.",
+     "cites": [
+      4,
+      6
+     ]
+    },
+    {
+     "text": "The trophy pops at the moment the second attempt succeeds.",
+     "cites": [
+      5,
+      6
+     ]
+    }
+   ]
+  },
+  {
+   "id": 50,
+   "name": "The Truth Is Out There",
+   "description": "What the hell just happened?",
+   "grade": "bronze",
+   "hidden": true,
+   "kind": "world",
+   "stage": 7,
+   "count": null,
+   "count_label": null,
+   "missable_status": "none",
+   "confirm_status": "unconfirmed",
+   "disagree": false,
+   "sources": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12
+   ],
+   "guide": "Unconfirmed. A hidden trophy for witnessing something strange — the series' traditional UFO or oddity event. The best current reading points at a scripted strange encounter in the rural north or the swamps; nobody has published a verified trigger yet.",
+   "steps": [
+    {
+     "text": "What is certain: hidden on PSN, and the description is a reaction, not an instruction — this is the 'witness the weird thing' trophy every game in this series hides somewhere.",
+     "cites": [
+      5,
+      10,
+      11,
+      12
+     ]
+    },
+    {
+     "text": "Working theory one: a UFO or lights event over the northern hills or the swamp at a set hour — the series has form for exactly this, at exactly those kinds of places.",
+     "cites": [
+      5,
+      6
+     ]
+    },
+    {
+     "text": "Working theory two: a scripted roadside oddity — a strange figure or event on the rural roads at night that triggers as you pass, missable only by never being there.",
+     "cites": [
+      6,
+      9
+     ]
+    },
+    {
+     "text": "Working theory three: it is tied to a specific stranger or collectible location's hidden scene, which would explain why open-world wandering has not settled it.",
+     "cites": [
+      6,
+      7
+     ]
+    },
+    {
+     "text": "Cheap experiments: spend a few in-game nights in the north counties and swamp roads, on foot or driving slowly, and watch the sky and the treeline.",
+     "cites": [
+      6,
+      9
+     ]
+    },
+    {
+     "text": "Photograph anything odd with the in-game phone if it appears — if a photo mode interaction exists, the game usually teaches it at the moment.",
+     "cites": [
+      4,
+      6
+     ]
+    },
+    {
+     "text": "Do not burn hours here early: unconfirmed event trophies usually resolve to a findable spot once the community maps them, and the lists will update.",
+     "cites": [
+      5,
+      6
+     ]
+    },
+    {
+     "text": "Nothing about the theories is missable — the world stays open after the story, and strange things keep their schedules.",
+     "cites": [
+      6,
+      8
+     ]
+    },
+    {
+     "text": "If it pops for you, the where and when are valuable: corroborated reports are precisely what this trophy is waiting for.",
+     "cites": [
+      6,
+      10
+     ]
+    },
+    {
+     "text": "Until then this entry keeps its unconfirmed flag — the honest state of knowledge, shown rather than hidden.",
+     "cites": [
+      6,
+      10
+     ]
+    }
+   ]
+  },
+  {
+   "id": 51,
+   "name": "Ten Pin",
+   "description": "Bowl 'em over with a melee drive-by.",
+   "grade": "bronze",
+   "hidden": true,
+   "kind": "crime",
+   "stage": 7,
+   "count": null,
+   "count_label": null,
+   "missable_status": "none",
+   "confirm_status": "single-source",
+   "disagree": false,
+   "sources": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    9,
+    10,
+    11,
+    12
+   ],
+   "guide": "Knock a pedestrian down with a melee attack delivered from a moving vehicle — a drive-by swat, not a shooting and not a collision. One source details the setup; a motorcycle and a crowded pavement are the tools.",
+   "steps": [
+    {
+     "text": "The move: from a vehicle — a motorcycle is the practical choice — use the melee button as you pass a pedestrian to swat them down without firing or running them over.",
+     "cites": [
+      3,
+      6,
+      12
+     ]
+    },
+    {
+     "text": "Contact must come from the melee swing, not the bike: clipping them with the wheel is a collision and does not count.",
+     "cites": [
+      3,
+      6
+     ]
+    },
+    {
+     "text": "Ride slowly along a busy pavement — boardwalks and the beach strip give you a line of targets at walking pace.",
+     "cites": [
+      3,
+      9
+     ]
+    },
+    {
+     "text": "One clean knockdown is the whole trophy by the detailed account; it pops on the hit.",
+     "cites": [
+      3,
+      5,
+      12
+     ]
+    },
+    {
+     "text": "Expect a wanted level if police are watching — the swat is an assault, however comic the framing.",
+     "cites": [
+      3,
+      4
+     ]
+    },
+    {
+     "text": "Hidden on PSN until earned.",
+     "cites": [
+      5,
+      6
+     ]
+    },
+    {
+     "text": "If the swing keeps missing, match the pedestrian's walking speed before the pass rather than accelerating through it.",
+     "cites": [
+      3,
+      9
+     ]
+    },
+    {
+     "text": "Cars can perform the same melee animation in the account, but the window is tighter and the collision risk higher — the bike is the recommendation.",
+     "cites": [
+      3,
+      7
+     ]
+    },
+    {
+     "text": "Single-source coverage: if your experience differs, trust the game — the description's wording ('melee drive-by') is the firm ground.",
+     "cites": [
+      3,
+      10
+     ]
+    },
+    {
+     "text": "The trophy pops as the pedestrian goes down from the melee hit.",
+     "cites": [
+      5,
+      6
+     ]
+    }
+   ]
+  },
+  {
+   "id": 52,
+   "name": "Dime on the Dollar",
+   "description": "Earn $250,000 laundering Marked Bills through your contacts.",
+   "grade": "bronze",
+   "hidden": false,
+   "kind": "money",
+   "stage": 7,
+   "count": 250000,
+   "count_label": "dollars laundered",
+   "missable_status": "none",
+   "confirm_status": "confirmed",
+   "disagree": false,
+   "sources": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    9,
+    11,
+    12
+   ],
+   "guide": "Launder a cumulative $250,000 of marked bills through your contacts. Marked bills come from heists, vaults and gang operations; laundering converts them at a cut, and the counter tracks the gross amount washed.",
+   "steps": [
+    {
+     "text": "Marked bills are the dirty cash from the Cartel Heist, bank vaults and gang operations — they cannot be spent until a contact launders them.",
+     "cites": [
+      1,
+      6,
+      12
+     ]
+    },
+    {
+     "text": "Laundering runs through contacts met in the story and strands: deliver marked bills, wait out the wash cycle, collect clean money minus their cut.",
+     "cites": [
+      2,
+      4
+     ]
+    },
+    {
+     "text": "The counter tracks the total value put through the wash, not the clean amount returned — the cut does not slow the trophy.",
+     "cites": [
+      1,
+      7
+     ]
+    },
+    {
+     "text": "Bank vaults are the steadiest marked-bill source after the story; Maximum Withdrawal's five vaults are a strong down payment on this total.",
+     "cites": [
+      1,
+      7
+     ]
+    },
+    {
+     "text": "Gang operations pay in marked bills too, so Pest Control's nine hits feed this counter on the way past.",
+     "cites": [
+      2,
+      6
+     ]
+    },
+    {
+     "text": "Do not sit on marked cash: it earns nothing in a stash, and the wash cycle takes in-game time, so keep the pipeline moving in parallel with other cleanup.",
+     "cites": [
+      2,
+      3
+     ]
+    },
+    {
+     "text": "Higher-tier contacts wash larger batches at once — unlock them through the strand work and the cycle stops being the bottleneck.",
+     "cites": [
+      4,
+      9
+     ]
+    },
+    {
+     "text": "Tick progress in the counter widget here in round thousands; the game surfaces laundered totals only at each wash's completion.",
+     "cites": [
+      6,
+      9
+     ]
+    },
+    {
+     "text": "This is a late trophy by design: $250,000 of marked bills is several vaults and operations beyond the story's own supply.",
+     "cites": [
+      1,
+      5
+     ]
+    },
+    {
+     "text": "The trophy pops when the cumulative washed total crosses $250,000.",
+     "cites": [
+      5,
+      6,
+      11
+     ]
+    }
+   ]
+  },
+  {
+   "id": 53,
+   "name": "Treat Yo Self",
+   "description": "Spend $100,000 across all shops.",
+   "grade": "bronze",
+   "hidden": false,
+   "kind": "money",
+   "stage": 7,
+   "count": 100000,
+   "count_label": "dollars spent",
+   "missable_status": "none",
+   "confirm_status": "confirmed",
+   "disagree": false,
+   "sources": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    11,
+    12
+   ],
+   "guide": "Spend a cumulative $100,000 in shops — any shops, any goods. It accumulates quietly behind everything else you buy; if it lags late, vehicles and property-adjacent spending close it fast.",
+   "steps": [
+    {
+     "text": "Every shop purchase counts: clothes, weapons, ammo, vehicle work, food, fees and services — the counter is a lifetime spending total across all of them.",
+     "cites": [
+      2,
+      6,
+      11,
+      12
+     ]
+    },
+    {
+     "text": "Ordinary play carries most of it: a full campaign with upgrades and garages typically lands within sight of the total by the finale.",
+     "cites": [
+      1,
+      4
+     ]
+    },
+    {
+     "text": "Do not hoard for this one — money spent here is gone, but almost everything worth buying also serves another trophy.",
+     "cites": [
+      1,
+      3
+     ]
+    },
+    {
+     "text": "Vehicle purchases and upgrades are the biggest single levers if you need a late push; one premium car can close a five-figure gap.",
+     "cites": [
+      2,
+      9
+     ]
+    },
+    {
+     "text": "Garage properties themselves are Little Boxes' business; the fittings and services around them still count here.",
+     "cites": [
+      4,
+      6
+     ]
+    },
+    {
+     "text": "Ammunition and armour restocks between endgame scores are a steady drip — top up fully rather than minimally and the total climbs.",
+     "cites": [
+      2,
+      7
+     ]
+    },
+    {
+     "text": "The counter widget here tracks to $100,000; update it from the in-game stats page's spending line when you check your progress.",
+     "cites": [
+      6,
+      9
+     ]
+    },
+    {
+     "text": "Spending marked bills is impossible until laundered — only clean-money purchases count, which is automatic in practice.",
+     "cites": [
+      1,
+      8
+     ]
+    },
+    {
+     "text": "There is no deadline or decay: the total only rises.",
+     "cites": [
+      2,
+      8
+     ]
+    },
+    {
+     "text": "The trophy pops as your cumulative shop spending crosses $100,000.",
+     "cites": [
+      5,
+      6,
+      11
+     ]
+    }
+   ]
+  },
+  {
+   "id": 54,
+   "name": "Little Boxes",
+   "description": "Purchase all garage properties.",
+   "grade": "bronze",
+   "hidden": false,
+   "kind": "money",
+   "stage": 7,
+   "count": 8,
+   "count_label": "garage properties",
+   "missable_status": "none",
+   "confirm_status": "confirmed",
+   "disagree": false,
+   "sources": [
+    1,
+    2,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    11,
+    12
+   ],
+   "guide": "Buy all eight garage properties across Leonida. They unlock for purchase across the story; the set is a money trophy in disguise, so it lands naturally in the free-roam stage once income peaks.",
+   "steps": [
+    {
+     "text": "There are eight purchasable garages spread across the state, each appearing as a property marker once its area and story beat are reached.",
+     "cites": [
+      1,
+      5,
+      11,
+      12
+     ]
+    },
+    {
+     "text": "Buy them as they unlock if cash allows — garages are also storage, and owned storage makes the vehicle work easier long before this trophy completes.",
+     "cites": [
+      2,
+      6
+     ]
+    },
+    {
+     "text": "The full set costs serious money; the endgame economy (vaults, operations, laundering) is sized to fund it, which is why guides schedule it last.",
+     "cites": [
+      1,
+      4,
+      11
+     ]
+    },
+    {
+     "text": "Property purchases are permanent and cannot be sold back — but none of the eight is a trap; all are ordinary garages in useful places.",
+     "cites": [
+      2,
+      7
+     ]
+    },
+    {
+     "text": "Tick each purchase in the counter widget here; property markers vanish after purchase, and the widget is the cleaner tally.",
+     "cites": [
+      6,
+      9
+     ]
+    },
+    {
+     "text": "Two garages sit in late-opening areas — if you are stuck at six, story or area unlocks, not money, are the gate.",
+     "cites": [
+      1,
+      8
+     ]
+    },
+    {
+     "text": "Buying property contributes to the 100% property share as well as this trophy.",
+     "cites": [
+      1,
+      6
+     ]
+    },
+    {
+     "text": "Keep purchases in clean money; the funds from laundering are exactly what this set is designed to absorb.",
+     "cites": [
+      2,
+      6
+     ]
+    },
+    {
+     "text": "There is no maintenance or upkeep cost that can repossess a garage — bought is bought.",
+     "cites": [
+      4,
+      8
+     ]
+    },
+    {
+     "text": "The trophy pops on completing the purchase of the eighth garage.",
+     "cites": [
+      5,
+      6
+     ]
+    }
+   ]
+  },
+  {
+   "id": 55,
+   "name": "On the Spot",
+   "description": "Register 10 vehicles to the Scooter Bros app.",
+   "grade": "bronze",
+   "hidden": false,
+   "kind": "collectibles",
+   "stage": 7,
+   "count": 10,
+   "count_label": "vehicles registered",
+   "missable_status": "none",
+   "confirm_status": "confirmed",
+   "disagree": true,
+   "sources": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12
+   ],
+   "guide": "Register ten vehicles in the Scooter Bros app — the in-game vehicle registry you meet early. Registration is a phone action on vehicles you own or drive; ten distinct vehicles finish it. A second detailed account (Push Square) now covers the same system from the workshop side; where the two accounts differ, the disagreement note shows both.",
+   "steps": [
+    {
+     "text": "The Scooter Bros app is the phone's vehicle registry: while in a vehicle you own or have taken, open the app and register it to add it to your list.",
+     "cites": [
+      6,
+      9,
+      12
+     ]
+    },
+    {
+     "text": "Ten different vehicles are needed — registering the same car twice does nothing, so spread registrations across models.",
+     "cites": [
+      6,
+      9,
+      11
+     ]
+    },
+    {
+     "text": "Registration is free and instant; the only cost is remembering to do it when you take something new.",
+     "cites": [
+      6,
+      9
+     ]
+    },
+    {
+     "text": "Pair it with Whip It Good: every time a discovery prompt fires for a new model, register that vehicle on the spot and both counters move together.",
+     "cites": [
+      6,
+      9,
+      11
+     ]
+    },
+    {
+     "text": "Story loaners and strand vehicles can be registered while you have them — Billy's bike and the heist cars are easy early entries.",
+     "cites": [
+      4,
+      9
+     ]
+    },
+    {
+     "text": "Registered vehicles can be located and delivered through the app afterwards, which quietly makes cleanup travel faster.",
+     "cites": [
+      6,
+      7,
+      11
+     ]
+    },
+    {
+     "text": "The counter widget here tracks registrations; the app itself lists them if you want to check which models you already have.",
+     "cites": [
+      6,
+      9
+     ]
+    },
+    {
+     "text": "Two detailed accounts now cover the details — the app flow above follows the first, the workshop account is added in the final step, and both are cross-checked against the official description.",
+     "cites": [
+      9,
+      10
+     ]
+    },
+    {
+     "text": "There is no time pressure: vehicles registered at any point, in any order, all count.",
+     "cites": [
+      6,
+      8
+     ]
+    },
+    {
+     "text": "The trophy pops as the tenth vehicle is registered.",
+     "cites": [
+      5,
+      6,
+      11
+     ]
+    },
+    {
+     "text": "Push Square's account adds the workshop side: a vehicle is registered at a Pay 'N' Spray or Mod Shop while you are driving it, the fee varies with the vehicle's value, and the registration needs an empty parking spot — the garages of Little Boxes are how you hold more spots.",
+     "cites": [
+      6,
+      11
+     ]
+    }
+   ],
+   "disagree_note": "How do you register, and does it cost anything? The first thorough account describes a free, instant phone action on a vehicle you are driving. Push Square's guide describes registration at a Pay 'N' Spray or Mod Shop, with a fee that varies with the vehicle's value and an empty parking spot required. Both agree on the substance — ten different vehicles, registered while you have them — so budget a little cash and keep a parking spot free, and either flow completes the set."
+  }
+ ]
+}
